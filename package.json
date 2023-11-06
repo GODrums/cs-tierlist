@@ -1,0 +1,19 @@
+{
+  "name": "cs-tierlist",
+  "version": "1.0.0",
+  "description": "Tierlists for many pattern-based CS skins",
+  "scripts": {
+    "gen_knives": "deno run --allow-net --allow-read --allow-write --allow-env --allow-run src/fetch_cw_knives.ts",
+    "gen_gloves": "deno run --allow-net --allow-read --allow-write --allow-env --allow-run src/fetch_cw_gloves.ts"
+  },
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/GODrums/cs-tierlist.git"
+  },
+  "author": "GODrums",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GODrums/cs-tierlist/issues"
+  },
+  "homepage": "https://github.com/GODrums/cs-tierlist#readme"
+}

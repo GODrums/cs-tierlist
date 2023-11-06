@@ -1,0 +1,627 @@
+{
+    "2": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798907628/9CCD71935DD674DA3BF14438B7984AEA29B545BF/",
+        "type": "Left Hand",
+        "tier": 1
+    },
+    "21": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798907636/CEFEE51FF3F701EE271629A7701CF161C009B8D8/",
+        "type": "Left Hand",
+        "tier": 3
+    },
+    "23": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798907647/F5EF5EAE13FC04CE7E08595F5771C2FB60873F93/",
+        "type": "Left Hand",
+        "tier": 3
+    },
+    "37": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798907664/BAE523A458CECA463890644A7DE81AA5A1CEA570/",
+        "type": "Left Hand",
+        "tier": 2
+    },
+    "44": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798907673/ED7413F9DD3F5FBF944C46A9839215D12BA962D4/",
+        "type": "Right Hand",
+        "tier": 3
+    },
+    "73": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798907687/12BD9A7E6EE8FFCF6B34F89E69CB9EC7533E1171/",
+        "type": "Right Hand",
+        "tier": 1
+    },
+    "89": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798907695/EDA40198AFF117FFC49A8B2E10249B244A64DCB2/",
+        "type": "Double Web",
+        "tier": 1
+    },
+    "90": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798908753/4CB863DA133BB274F475C43C65013F805E9B05FA/",
+        "type": "Right Hand",
+        "tier": 3
+    },
+    "98": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798908764/E10AEFBC206595C50BAF813FB3E05F896982C447/",
+        "type": "Right Hand",
+        "tier": 3
+    },
+    "107": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798908774/E83E057349BA0322449E4E2AF63574F15C2883C0/",
+        "type": "Right Hand",
+        "tier": 1
+    },
+    "109": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798908782/80A008E23CA73C403896EC5F3F6AC794921DA724/",
+        "type": "Left Hand",
+        "tier": 3
+    },
+    "113": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798908792/5BCCC8680D3D33966F09E655C7F45550359D9EEF/",
+        "type": "Left Hand",
+        "tier": 2
+    },
+    "115": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798908802/819B85A40CD02667C7AB3B53687A2D451BF0FC92/",
+        "type": "Right Hand",
+        "tier": 1
+    },
+    "123": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798908810/5E6018CFC21A288D5D3D90DB598AF57F9FE8A344/",
+        "type": "Right Hand",
+        "tier": 1
+    },
+    "128": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1798647826781814344/36923025336AD6AD54A66D06418A455398404916/",
+        "type": "Left Hand",
+        "tier": 1
+    },
+    "130": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798916300/27B708BDE98999F36636C0C9DEF1755F6CC2F8CE/",
+        "type": "Right Hand",
+        "tier": 1
+    },
+    "133": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798916308/3E1D8A5524BE34C1F23D685F39A07F56D8C1619B/",
+        "type": "Left Hand",
+        "tier": 2
+    },
+    "138": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798916327/A614D3B0239B700839DA5749D0FE6396B5E6DD85/",
+        "type": "Right Hand",
+        "tier": 2
+    },
+    "145": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798916340/B8E763ABC972C772FB0DAA3F834E5B5952764663/",
+        "type": "Right Hand",
+        "tier": 3
+    },
+    "166": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798916346/B04CD5CD6449B4777CB5F350C887CA0E14D72BE0/",
+        "type": "Right Hand",
+        "tier": 3
+    },
+    "189": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798916353/A478BCA2E8CDC5F6908E4547FAA318624822E408/",
+        "type": "Right Hand",
+        "tier": 3
+    },
+    "194": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798916359/B6C21E8F6EE2A7B5B0EC22D23D008FDC443D33A7/",
+        "type": "Left Hand",
+        "tier": 3
+    },
+    "196": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798917577/0995249F9A805AEB17868A370A191C891E60A8F6/",
+        "type": "Left Hand",
+        "tier": 2
+    },
+    "197": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/2057623990377653868/97FCE911AC51520CAF5EEC917A1AC146B03257EC/",
+        "type": "Left Hand",
+        "tier": 1
+    },
+    "198": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798917586/0377102E083EEC8228032AA475BB03EC11B6042F/",
+        "type": "Left Hand",
+        "tier": 1
+    },
+    "202": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798917593/67D7C5FEA594C6AE4A0990CA1D7CFB7BCD050E20/",
+        "type": "Triple Web",
+        "tier": 1
+    },
+    "204": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798917602/6363F539BA8D46C82785CB0D9217D07167B1FE85/",
+        "type": "Left Hand",
+        "tier": 1
+    },
+    "208": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798917612/3D21E943B32778C5423D7E56E6356E1017C7F15A/",
+        "type": "Double Web",
+        "tier": 2
+    },
+    "209": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798917617/7B789F3ECE6737D97AB614DD38F6BD7A213DB29E/",
+        "type": "Right Hand",
+        "tier": 2
+    },
+    "216": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798917624/464175C415BFC8BC6DA2CED6FFAC80AB1371600E/",
+        "type": "Right Hand",
+        "tier": 1
+    },
+    "233": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798918246/32A36E99FEDFD4AE55D6A4245E76361CB16C01AE/",
+        "type": "Left Hand",
+        "tier": 1
+    },
+    "250": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798918259/E2379B8490CF3AA2FC0E901AC54F8EA94D406B33/",
+        "type": "Right Hand",
+        "tier": 2
+    },
+    "252": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798918266/B05B1572B14524CBCB5F9BEDC0CA596B448E030D/",
+        "type": "Right Hand",
+        "tier": 2
+    },
+    "263": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798918273/6533708DA40F0EFC3AB44DE6DE1212A9E2270101/",
+        "type": "Left Hand",
+        "tier": 2
+    },
+    "275": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798918281/88A1724FDE33A2714683F7CB6FBFE1701438B851/",
+        "type": "Left Hand",
+        "tier": 1
+    },
+    "279": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798918292/87D0557A6F50B9E29BC86112FC9F6882427E0798/",
+        "type": "Right Hand",
+        "tier": 2
+    },
+    "310": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798918298/956CF950E02F99ED7FB75E22C3D436A8647C83FC/",
+        "type": "Left Hand",
+        "tier": 3
+    },
+    "311": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798918923/8A445B9C2FBFF14AB1642299A8B786DC25B59266/",
+        "type": "Left Hand",
+        "tier": 2
+    },
+    "313": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798918929/299782B3ED7F9D6212034B8959F916640F257686/",
+        "type": "Right Hand",
+        "tier": 1
+    },
+    "323": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798918937/CBC0D2A4310BD096AFA51323E2E4B6D240F327AB/",
+        "type": "Double Web",
+        "tier": 1
+    },
+    "330": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798918944/7890CF95AF6A229C0CAEA0ACACCE46703DB6680A/",
+        "type": "Double Web",
+        "tier": 1
+    },
+    "335": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798918954/AB0E268C7084C37C187035BA2930B2F040538118/",
+        "type": "Right Hand",
+        "tier": 3
+    },
+    "344": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798918962/84DFAEDD7E769D0A1018F3E64923E829AA9BF879/",
+        "type": "Double Web",
+        "tier": 3
+    },
+    "356": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798918972/8360253C6C4D21DF40B2A84EADA1E1C0AAC89B33/",
+        "type": "Right Hand",
+        "tier": 1
+    },
+    "369": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798919626/F3EE24CDCF370B516D24D64A21CAAD197097D89B/",
+        "type": "Right Hand",
+        "tier": 2
+    },
+    "398": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798919634/214A8B8C7D98CCD7DED6BAE6285B8A1EDD973AE0/",
+        "type": "Double Web",
+        "tier": 2
+    },
+    "409": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798919641/7746BC8594D91C0935E59F7052164A0F25A9C7AB/",
+        "type": "Right Hand",
+        "tier": 3
+    },
+    "411": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798919649/CE76E7833144A5777218710055F8FF2C7D110D18/",
+        "type": "Right Hand",
+        "tier": 1
+    },
+    "416": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798919654/7CBB941BD099228980D7443AA28D25DDE31367BA/",
+        "type": "Right Hand",
+        "tier": 3
+    },
+    "420": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798919672/D098C2F2C185E725716D7B64C8B3F8E34563F915/",
+        "type": "Double Web",
+        "tier": 3
+    },
+    "447": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798919679/F5640CD9FE389335BE838D424D50241AFF9FFA1D/",
+        "type": "Right Hand",
+        "tier": 3
+    },
+    "454": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798920245/7F0D9C0D93826E62D11BDFCA4457A5189F10CB3A/",
+        "type": "Right Hand",
+        "tier": 1
+    },
+    "459": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798920252/C42B9D088DA775B408FAD083079782ED98FB2768/",
+        "type": "Left Hand",
+        "tier": 3
+    },
+    "466": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798920259/51053DC2CAB52C8984BE1A7AA2DAB0FD8F4DADBB/",
+        "type": "Double Web",
+        "tier": 3
+    },
+    "479": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798920268/AEE68D8A62E2FEF297F5A63C3A1DA9F2B1023245/",
+        "type": "Left Hand",
+        "tier": 3
+    },
+    "504": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798920278/5876D6878C0A7E71DE1B78BC84B140DC7AE47803/",
+        "type": "Left Hand",
+        "tier": 1
+    },
+    "508": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798920285/22548D45E668827688C10CA8E0462632D7642F38/",
+        "type": "Left Hand",
+        "tier": 1
+    },
+    "529": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798920294/4DC26E47466901E0F14E337749B3EC908991409B/",
+        "type": "Right Hand",
+        "tier": 3
+    },
+    "532": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798921900/5162525FB7FAD90BA123CC72FCC53CC4BF976360/",
+        "type": "Left Hand",
+        "tier": 2
+    },
+    "534": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798921908/274E22976B5B43EC73B30D0E4BDF66FB23D18346/",
+        "type": "Triple Web",
+        "tier": 1
+    },
+    "559": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798921916/46E209D00C0026FEEEA06ADA0C3268AD5C6CE843/",
+        "type": "Double Web",
+        "tier": 2
+    },
+    "561": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798921924/4EC71ECA85D2812C3A9940257EEA043088F2F546/",
+        "type": "Left Hand",
+        "tier": 1
+    },
+    "563": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798921932/68D6D89991AC1A972A03312B5724C56C42D19CEF/",
+        "type": "Triple Web",
+        "tier": 1
+    },
+    "573": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798921940/DE7CE5175D5ACDB7BE62A73CE0B12D01F6CEE357/",
+        "type": "Double Web",
+        "tier": 3
+    },
+    "575": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798921947/F8BDB85C537A86E2773872A74735819B45721AD4/",
+        "type": "Right Hand",
+        "tier": 3
+    },
+    "581": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798922711/EF530FA1BBCA6E63CB9F5DDC2E2F74FE62167FCF/",
+        "type": "Right Hand",
+        "tier": 2
+    },
+    "587": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798922719/2E3D7BA99A3AE8E35C8F103BF1947954313C2101/",
+        "type": "Left Hand",
+        "tier": 2
+    },
+    "605": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/2057623990377670751/0964F56AB57B189BD95CB6581B3CD40E5BEB2FBE/",
+        "type": "Right Hand",
+        "tier": 3
+    },
+    "610": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798922728/21E2B8DDF0417493460A47028BAE6066EB0CF3A1/",
+        "type": "Left Hand",
+        "tier": 1
+    },
+    "614": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798922744/3760811E06C852D574C128259ADAAAA760D9B763/",
+        "type": "Left Hand",
+        "tier": 3
+    },
+    "615": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798922755/ECFECC91B1474647A4CF91933C7114A2E19B83CD/",
+        "type": "Left Hand",
+        "tier": 2
+    },
+    "626": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/2057623990377691656/7AF420B6ADC5ECBAA340A97F7B23E166FD9B91F5/",
+        "type": "Triple Web",
+        "tier": 1
+    },
+    "651": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798922765/EC2B81C9127AB545FA673DDBB3ED866A61C59824/",
+        "type": "Right Hand",
+        "tier": 2
+    },
+    "655": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798922775/41A22FDFF4C046533161B8F348A32CDF4A5E2E96/",
+        "type": "Left Hand",
+        "tier": 3
+    },
+    "656": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798923460/BE654ED50DE03ADB4DB83F5A7637A6F1E2F0DEAC/",
+        "type": "Double Web",
+        "tier": 2
+    },
+    "689": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798923468/B04EB6079DB2AD73E04DBBC54A13FFB0A77EC25F/",
+        "type": "Left Hand",
+        "tier": 3
+    },
+    "691": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798923481/FFF2D6D2BC62C048FC8D736B93AB2BFF53D8D9BC/",
+        "type": "Right Hand",
+        "tier": 1
+    },
+    "695": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798923484/96C5C964D397F48BD2034CED937B1A44F13107A6/",
+        "type": "Double Web",
+        "tier": 3
+    },
+    "698": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798923491/B61F87F2140E9957FD907425F77BE030D2BF0C12/",
+        "type": "Right Hand",
+        "tier": 2
+    },
+    "699": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798923501/156B484662E8383FF351F9DF119C451305A9C3A5/",
+        "type": "Right Hand",
+        "tier": 3
+    },
+    "718": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798923506/3FFA21537346EE5DC3EB78A17A6D58D13DD14F74/",
+        "type": "Left Hand",
+        "tier": 1
+    },
+    "721": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798926134/5270CBB1E50A377D9853355F9542C880185115B6/",
+        "type": "Left Hand",
+        "tier": 2
+    },
+    "722": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798926139/AD6FDF11D102011C244C6FA01D0B495734E5E740/",
+        "type": "Double Web",
+        "tier": 2
+    },
+    "730": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798926153/58A5DFDC73D522CCE4A7A42F81326FFAA225AF0B/",
+        "type": "Right Hand",
+        "tier": 2
+    },
+    "732": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798926169/A2E67E73C23EB5F7B9954B311B3AA5F81A36F577/",
+        "type": "Left Hand",
+        "tier": 2
+    },
+    "734": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798926176/6C032DAEBBA6E6CC9044335738EF21B5E13C9048/",
+        "type": "Left Hand",
+        "tier": 3
+    },
+    "735": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798926187/42525A742BD735569D77BA969CFDB436A32A2AD3/",
+        "type": "Double Web",
+        "tier": 3
+    },
+    "743": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798926201/E26E588CE878953BA27A58D99F759B6D7092AE4B/",
+        "type": "Left Hand",
+        "tier": 3
+    },
+    "745": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798927360/671A6882D533DFD6A87194AB66DB3F5BB7684FCE/",
+        "type": "Double Web",
+        "tier": 3
+    },
+    "749": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798927367/C73F07041408265ABDB42BC1C8EFF1C7E690B4C7/",
+        "type": "Right Hand",
+        "tier": 3
+    },
+    "753": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798927375/E6418C7DBEF6A2857550062F75AB7564E4F58C41/",
+        "type": "Left Hand",
+        "tier": 1
+    },
+    "754": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798927378/9B25E6024D7696E90096C89E8E899F3F59E83939/",
+        "type": "Left Hand",
+        "tier": 2
+    },
+    "774": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798927385/094978D4B8760CCED511598EE7CBBA6283086D2F/",
+        "type": "Double Web",
+        "tier": 1
+    },
+    "788": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798927392/AC825BAD00ED8644711F21E8463BFAF762EF8A5A/",
+        "type": "Left Hand",
+        "tier": 2
+    },
+    "789": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798927399/EF7D01187134C6B6D7502EBDCAC569548C325344/",
+        "type": "Triple Web",
+        "tier": 1
+    },
+    "800": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798928456/5EB5042DE7D0D2A657CB92BC34C7D980965EBA84/",
+        "type": "Double Web",
+        "tier": 2
+    },
+    "820": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798928461/D1E28F664847C9F8B9CE0DB15BB166A0DD7CF7C1/",
+        "type": "Right Hand",
+        "tier": 1
+    },
+    "826": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798928471/2CF8204977998101C020CE8A82A2069F32A05569/",
+        "type": "Right Hand",
+        "tier": 2
+    },
+    "829": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798928476/32B4C0C1CA6DAF9FD395E19DDCA8F55EB661D6F0/",
+        "type": "Left Hand",
+        "tier": 1
+    },
+    "837": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798928487/28D2A7D658C2841CE9A95D89CEE4342B985BFAE7/",
+        "type": "Left Hand",
+        "tier": 3
+    },
+    "860": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798928497/5E0E1F3286D9FB428501F07B8F1F90989C250A9A/",
+        "type": "Left Hand",
+        "tier": 2
+    },
+    "866": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798928524/88CD0EDCB9E9D69FB9CCA66F05319FF031001737/",
+        "type": "Double Web",
+        "tier": 2
+    },
+    "869": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798929258/5B6FF8B3D5B6E7C324E674E94144AAFC5E50A666/",
+        "type": "Triple Web",
+        "tier": 1
+    },
+    "882": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/2057623990377713067/94BD4F08E5D949C9EB251A8A1E33E39080740497/",
+        "type": "Left Hand",
+        "tier": 1
+    },
+    "904": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798929270/BDE4D17923EA588B1E5D2AF257E9C42BAAE24A82/",
+        "type": "Right Hand",
+        "tier": 3
+    },
+    "906": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798929277/FAF016E97AA6BB69A4D01664BF4A572558390D2F/",
+        "type": "Left Hand",
+        "tier": 3
+    },
+    "907": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798929287/361AEC589F10B67498C699DA95E4B578F5859E4D/",
+        "type": "Right Hand",
+        "tier": 2
+    },
+    "912": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798929303/820460DE744D07A084362247B8486839DAADFCB4/",
+        "type": "Left Hand",
+        "tier": 3
+    },
+    "913": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798929314/2CCE1BFE7F0DEC5FDB93C99CEABEC75CC2849E00/",
+        "type": "Left Hand",
+        "tier": 3
+    },
+    "914": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798929324/5D1694126EFC5632B214B3BC7C4F9A963C8F59F4/",
+        "type": "Triple Web",
+        "tier": 1
+    },
+    "916": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798930129/624DF454AFC614F58D8B1DD4F4A3E9AC79F7E5EA/",
+        "type": "Triple Web",
+        "tier": 2
+    },
+    "920": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798930138/8B2A4FAFC1EE1DDABA6CF6B2DC23A3063FB52D8A/",
+        "type": "Right Hand",
+        "tier": 3
+    },
+    "922": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798930146/0A4310E1086D02F62B2B66AEC64A27391C440D25/",
+        "type": "Double Web",
+        "tier": 2
+    },
+    "927": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798930155/3908234631E1780E1AB980A9453FD41CAEC64783/",
+        "type": "Left Hand",
+        "tier": 3
+    },
+    "933": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798930165/9796F637600FBE14C195E6846000B934BC71FA9B/",
+        "type": "Left Hand",
+        "tier": 3
+    },
+    "940": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798930180/5285B79D4E94C3CE917E28499018132B6CA58E64/",
+        "type": "Left Hand",
+        "tier": 1
+    },
+    "945": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798930190/E64E4ACDEC7B885E0C60A094122370DC27F5BB41/",
+        "type": "Right Hand",
+        "tier": 3
+    },
+    "958": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798931133/F82D5AE6DB4733D8CBA022FC2A57DD9D9897A4EC/",
+        "type": "Right Hand",
+        "tier": 1
+    },
+    "959": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798931142/96C5A9BEEC1270340C7F311A8E89237F69A5BA65/",
+        "type": "Right Hand",
+        "tier": 2
+    },
+    "965": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798931150/A5A59EEEF1D936E7820023F9336FC4576BA459B5/",
+        "type": "Double Web",
+        "tier": 2
+    },
+    "972": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798931164/5C074A72DB1D561395C1BF241D0F829644B81795/",
+        "type": "Left Hand",
+        "tier": 3
+    },
+    "979": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798931170/C4412F31D4B88FFBA5CCBE2265CA93639054BD43/",
+        "type": "Left Hand",
+        "tier": 2
+    },
+    "980": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798931180/692A53AA493714ACB62E97768AC62324A34BB6B8/",
+        "type": "Triple Web",
+        "tier": 2
+    },
+    "988": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798931190/EF91330CE4CD83C0C8364A40065311D6795157F1/",
+        "type": "Right Hand",
+        "tier": 3
+    },
+    "996": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798931554/BC2BFB5A5A08CF32DAD6F179DC8F074E6C7FEBA5/",
+        "type": "Left Hand",
+        "tier": 1
+    }
+}
