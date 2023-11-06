@@ -3,7 +3,7 @@ import { DOMParser, Element } from "https://deno.land/x/deno_dom/deno-dom-wasm.t
 // m9 cw: "output/crimson_web_m9.json";
 // karambit cw: "output/crimson_web_karambit.json";
 // nomad cw: "output/crimson_web_nomad.json";
-const fileName = "output/crimson_web_nomad.json";
+const fileName = "~/output/crimson_web_nomad.json";
 let jsonData = await getJson(fileName);
 // m9 cw: https://steamcommunity.com/sharedfiles/filedetails/?id=2973876979
 // karambit cw: https://steamcommunity.com/sharedfiles/filedetails/?id=2980565820

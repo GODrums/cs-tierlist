@@ -1,6 +1,6 @@
 import { DOMParser, Element } from "https://deno.land/x/deno_dom/deno-dom-wasm.ts";
 
-const fileName = "output/crimson_web_gloves.json";
+const fileName = "~/output/crimson_web_gloves.json";
 let jsonData = await getJson(fileName);
 let baseurl = "https://steamcommunity.com/sharedfiles/filedetails/?id=2818147579";
 

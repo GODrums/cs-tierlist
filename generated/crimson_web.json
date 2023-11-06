@@ -1,0 +1,6865 @@
+{
+    "gloves": {
+        "2": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798907628/9CCD71935DD674DA3BF14438B7984AEA29B545BF/",
+            "type": "Left Hand",
+            "tier": 1
+        },
+        "21": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798907636/CEFEE51FF3F701EE271629A7701CF161C009B8D8/",
+            "type": "Left Hand",
+            "tier": 3
+        },
+        "23": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798907647/F5EF5EAE13FC04CE7E08595F5771C2FB60873F93/",
+            "type": "Left Hand",
+            "tier": 3
+        },
+        "37": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798907664/BAE523A458CECA463890644A7DE81AA5A1CEA570/",
+            "type": "Left Hand",
+            "tier": 2
+        },
+        "44": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798907673/ED7413F9DD3F5FBF944C46A9839215D12BA962D4/",
+            "type": "Right Hand",
+            "tier": 3
+        },
+        "73": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798907687/12BD9A7E6EE8FFCF6B34F89E69CB9EC7533E1171/",
+            "type": "Right Hand",
+            "tier": 1
+        },
+        "89": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798907695/EDA40198AFF117FFC49A8B2E10249B244A64DCB2/",
+            "type": "Double Web",
+            "tier": 1
+        },
+        "90": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798908753/4CB863DA133BB274F475C43C65013F805E9B05FA/",
+            "type": "Right Hand",
+            "tier": 3
+        },
+        "98": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798908764/E10AEFBC206595C50BAF813FB3E05F896982C447/",
+            "type": "Right Hand",
+            "tier": 3
+        },
+        "107": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798908774/E83E057349BA0322449E4E2AF63574F15C2883C0/",
+            "type": "Right Hand",
+            "tier": 1
+        },
+        "109": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798908782/80A008E23CA73C403896EC5F3F6AC794921DA724/",
+            "type": "Left Hand",
+            "tier": 3
+        },
+        "113": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798908792/5BCCC8680D3D33966F09E655C7F45550359D9EEF/",
+            "type": "Left Hand",
+            "tier": 2
+        },
+        "115": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798908802/819B85A40CD02667C7AB3B53687A2D451BF0FC92/",
+            "type": "Right Hand",
+            "tier": 1
+        },
+        "123": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798908810/5E6018CFC21A288D5D3D90DB598AF57F9FE8A344/",
+            "type": "Right Hand",
+            "tier": 1
+        },
+        "128": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1798647826781814344/36923025336AD6AD54A66D06418A455398404916/",
+            "type": "Left Hand",
+            "tier": 1
+        },
+        "130": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798916300/27B708BDE98999F36636C0C9DEF1755F6CC2F8CE/",
+            "type": "Right Hand",
+            "tier": 1
+        },
+        "133": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798916308/3E1D8A5524BE34C1F23D685F39A07F56D8C1619B/",
+            "type": "Left Hand",
+            "tier": 2
+        },
+        "138": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798916327/A614D3B0239B700839DA5749D0FE6396B5E6DD85/",
+            "type": "Right Hand",
+            "tier": 2
+        },
+        "145": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798916340/B8E763ABC972C772FB0DAA3F834E5B5952764663/",
+            "type": "Right Hand",
+            "tier": 3
+        },
+        "166": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798916346/B04CD5CD6449B4777CB5F350C887CA0E14D72BE0/",
+            "type": "Right Hand",
+            "tier": 3
+        },
+        "189": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798916353/A478BCA2E8CDC5F6908E4547FAA318624822E408/",
+            "type": "Right Hand",
+            "tier": 3
+        },
+        "194": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798916359/B6C21E8F6EE2A7B5B0EC22D23D008FDC443D33A7/",
+            "type": "Left Hand",
+            "tier": 3
+        },
+        "196": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798917577/0995249F9A805AEB17868A370A191C891E60A8F6/",
+            "type": "Left Hand",
+            "tier": 2
+        },
+        "197": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2057623990377653868/97FCE911AC51520CAF5EEC917A1AC146B03257EC/",
+            "type": "Left Hand",
+            "tier": 1
+        },
+        "198": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798917586/0377102E083EEC8228032AA475BB03EC11B6042F/",
+            "type": "Left Hand",
+            "tier": 1
+        },
+        "202": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798917593/67D7C5FEA594C6AE4A0990CA1D7CFB7BCD050E20/",
+            "type": "Triple Web",
+            "tier": 1
+        },
+        "204": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798917602/6363F539BA8D46C82785CB0D9217D07167B1FE85/",
+            "type": "Left Hand",
+            "tier": 1
+        },
+        "208": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798917612/3D21E943B32778C5423D7E56E6356E1017C7F15A/",
+            "type": "Double Web",
+            "tier": 2
+        },
+        "209": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798917617/7B789F3ECE6737D97AB614DD38F6BD7A213DB29E/",
+            "type": "Right Hand",
+            "tier": 2
+        },
+        "216": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798917624/464175C415BFC8BC6DA2CED6FFAC80AB1371600E/",
+            "type": "Right Hand",
+            "tier": 1
+        },
+        "233": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798918246/32A36E99FEDFD4AE55D6A4245E76361CB16C01AE/",
+            "type": "Left Hand",
+            "tier": 1
+        },
+        "250": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798918259/E2379B8490CF3AA2FC0E901AC54F8EA94D406B33/",
+            "type": "Right Hand",
+            "tier": 2
+        },
+        "252": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798918266/B05B1572B14524CBCB5F9BEDC0CA596B448E030D/",
+            "type": "Right Hand",
+            "tier": 2
+        },
+        "263": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798918273/6533708DA40F0EFC3AB44DE6DE1212A9E2270101/",
+            "type": "Left Hand",
+            "tier": 2
+        },
+        "275": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798918281/88A1724FDE33A2714683F7CB6FBFE1701438B851/",
+            "type": "Left Hand",
+            "tier": 1
+        },
+        "279": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798918292/87D0557A6F50B9E29BC86112FC9F6882427E0798/",
+            "type": "Right Hand",
+            "tier": 2
+        },
+        "310": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798918298/956CF950E02F99ED7FB75E22C3D436A8647C83FC/",
+            "type": "Left Hand",
+            "tier": 3
+        },
+        "311": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798918923/8A445B9C2FBFF14AB1642299A8B786DC25B59266/",
+            "type": "Left Hand",
+            "tier": 2
+        },
+        "313": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798918929/299782B3ED7F9D6212034B8959F916640F257686/",
+            "type": "Right Hand",
+            "tier": 1
+        },
+        "323": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798918937/CBC0D2A4310BD096AFA51323E2E4B6D240F327AB/",
+            "type": "Double Web",
+            "tier": 1
+        },
+        "330": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798918944/7890CF95AF6A229C0CAEA0ACACCE46703DB6680A/",
+            "type": "Double Web",
+            "tier": 1
+        },
+        "335": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798918954/AB0E268C7084C37C187035BA2930B2F040538118/",
+            "type": "Right Hand",
+            "tier": 3
+        },
+        "344": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798918962/84DFAEDD7E769D0A1018F3E64923E829AA9BF879/",
+            "type": "Double Web",
+            "tier": 3
+        },
+        "356": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798918972/8360253C6C4D21DF40B2A84EADA1E1C0AAC89B33/",
+            "type": "Right Hand",
+            "tier": 1
+        },
+        "369": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798919626/F3EE24CDCF370B516D24D64A21CAAD197097D89B/",
+            "type": "Right Hand",
+            "tier": 2
+        },
+        "398": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798919634/214A8B8C7D98CCD7DED6BAE6285B8A1EDD973AE0/",
+            "type": "Double Web",
+            "tier": 2
+        },
+        "409": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798919641/7746BC8594D91C0935E59F7052164A0F25A9C7AB/",
+            "type": "Right Hand",
+            "tier": 3
+        },
+        "411": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798919649/CE76E7833144A5777218710055F8FF2C7D110D18/",
+            "type": "Right Hand",
+            "tier": 1
+        },
+        "416": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798919654/7CBB941BD099228980D7443AA28D25DDE31367BA/",
+            "type": "Right Hand",
+            "tier": 3
+        },
+        "420": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798919672/D098C2F2C185E725716D7B64C8B3F8E34563F915/",
+            "type": "Double Web",
+            "tier": 3
+        },
+        "447": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798919679/F5640CD9FE389335BE838D424D50241AFF9FFA1D/",
+            "type": "Right Hand",
+            "tier": 3
+        },
+        "454": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798920245/7F0D9C0D93826E62D11BDFCA4457A5189F10CB3A/",
+            "type": "Right Hand",
+            "tier": 1
+        },
+        "459": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798920252/C42B9D088DA775B408FAD083079782ED98FB2768/",
+            "type": "Left Hand",
+            "tier": 3
+        },
+        "466": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798920259/51053DC2CAB52C8984BE1A7AA2DAB0FD8F4DADBB/",
+            "type": "Double Web",
+            "tier": 3
+        },
+        "479": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798920268/AEE68D8A62E2FEF297F5A63C3A1DA9F2B1023245/",
+            "type": "Left Hand",
+            "tier": 3
+        },
+        "504": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798920278/5876D6878C0A7E71DE1B78BC84B140DC7AE47803/",
+            "type": "Left Hand",
+            "tier": 1
+        },
+        "508": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798920285/22548D45E668827688C10CA8E0462632D7642F38/",
+            "type": "Left Hand",
+            "tier": 1
+        },
+        "529": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798920294/4DC26E47466901E0F14E337749B3EC908991409B/",
+            "type": "Right Hand",
+            "tier": 3
+        },
+        "532": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798921900/5162525FB7FAD90BA123CC72FCC53CC4BF976360/",
+            "type": "Left Hand",
+            "tier": 2
+        },
+        "534": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798921908/274E22976B5B43EC73B30D0E4BDF66FB23D18346/",
+            "type": "Triple Web",
+            "tier": 1
+        },
+        "559": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798921916/46E209D00C0026FEEEA06ADA0C3268AD5C6CE843/",
+            "type": "Double Web",
+            "tier": 2
+        },
+        "561": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798921924/4EC71ECA85D2812C3A9940257EEA043088F2F546/",
+            "type": "Left Hand",
+            "tier": 1
+        },
+        "563": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798921932/68D6D89991AC1A972A03312B5724C56C42D19CEF/",
+            "type": "Triple Web",
+            "tier": 1
+        },
+        "573": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798921940/DE7CE5175D5ACDB7BE62A73CE0B12D01F6CEE357/",
+            "type": "Double Web",
+            "tier": 3
+        },
+        "575": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798921947/F8BDB85C537A86E2773872A74735819B45721AD4/",
+            "type": "Right Hand",
+            "tier": 3
+        },
+        "581": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798922711/EF530FA1BBCA6E63CB9F5DDC2E2F74FE62167FCF/",
+            "type": "Right Hand",
+            "tier": 2
+        },
+        "587": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798922719/2E3D7BA99A3AE8E35C8F103BF1947954313C2101/",
+            "type": "Left Hand",
+            "tier": 2
+        },
+        "605": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2057623990377670751/0964F56AB57B189BD95CB6581B3CD40E5BEB2FBE/",
+            "type": "Right Hand",
+            "tier": 3
+        },
+        "610": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798922728/21E2B8DDF0417493460A47028BAE6066EB0CF3A1/",
+            "type": "Left Hand",
+            "tier": 1
+        },
+        "614": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798922744/3760811E06C852D574C128259ADAAAA760D9B763/",
+            "type": "Left Hand",
+            "tier": 3
+        },
+        "615": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798922755/ECFECC91B1474647A4CF91933C7114A2E19B83CD/",
+            "type": "Left Hand",
+            "tier": 2
+        },
+        "626": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2057623990377691656/7AF420B6ADC5ECBAA340A97F7B23E166FD9B91F5/",
+            "type": "Triple Web",
+            "tier": 1
+        },
+        "651": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798922765/EC2B81C9127AB545FA673DDBB3ED866A61C59824/",
+            "type": "Right Hand",
+            "tier": 2
+        },
+        "655": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798922775/41A22FDFF4C046533161B8F348A32CDF4A5E2E96/",
+            "type": "Left Hand",
+            "tier": 3
+        },
+        "656": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798923460/BE654ED50DE03ADB4DB83F5A7637A6F1E2F0DEAC/",
+            "type": "Double Web",
+            "tier": 2
+        },
+        "689": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798923468/B04EB6079DB2AD73E04DBBC54A13FFB0A77EC25F/",
+            "type": "Left Hand",
+            "tier": 3
+        },
+        "691": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798923481/FFF2D6D2BC62C048FC8D736B93AB2BFF53D8D9BC/",
+            "type": "Right Hand",
+            "tier": 1
+        },
+        "695": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798923484/96C5C964D397F48BD2034CED937B1A44F13107A6/",
+            "type": "Double Web",
+            "tier": 3
+        },
+        "698": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798923491/B61F87F2140E9957FD907425F77BE030D2BF0C12/",
+            "type": "Right Hand",
+            "tier": 2
+        },
+        "699": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798923501/156B484662E8383FF351F9DF119C451305A9C3A5/",
+            "type": "Right Hand",
+            "tier": 3
+        },
+        "718": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798923506/3FFA21537346EE5DC3EB78A17A6D58D13DD14F74/",
+            "type": "Left Hand",
+            "tier": 1
+        },
+        "721": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798926134/5270CBB1E50A377D9853355F9542C880185115B6/",
+            "type": "Left Hand",
+            "tier": 2
+        },
+        "722": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798926139/AD6FDF11D102011C244C6FA01D0B495734E5E740/",
+            "type": "Double Web",
+            "tier": 2
+        },
+        "730": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798926153/58A5DFDC73D522CCE4A7A42F81326FFAA225AF0B/",
+            "type": "Right Hand",
+            "tier": 2
+        },
+        "732": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798926169/A2E67E73C23EB5F7B9954B311B3AA5F81A36F577/",
+            "type": "Left Hand",
+            "tier": 2
+        },
+        "734": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798926176/6C032DAEBBA6E6CC9044335738EF21B5E13C9048/",
+            "type": "Left Hand",
+            "tier": 3
+        },
+        "735": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798926187/42525A742BD735569D77BA969CFDB436A32A2AD3/",
+            "type": "Double Web",
+            "tier": 3
+        },
+        "743": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798926201/E26E588CE878953BA27A58D99F759B6D7092AE4B/",
+            "type": "Left Hand",
+            "tier": 3
+        },
+        "745": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798927360/671A6882D533DFD6A87194AB66DB3F5BB7684FCE/",
+            "type": "Double Web",
+            "tier": 3
+        },
+        "749": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798927367/C73F07041408265ABDB42BC1C8EFF1C7E690B4C7/",
+            "type": "Right Hand",
+            "tier": 3
+        },
+        "753": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798927375/E6418C7DBEF6A2857550062F75AB7564E4F58C41/",
+            "type": "Left Hand",
+            "tier": 1
+        },
+        "754": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798927378/9B25E6024D7696E90096C89E8E899F3F59E83939/",
+            "type": "Left Hand",
+            "tier": 2
+        },
+        "774": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798927385/094978D4B8760CCED511598EE7CBBA6283086D2F/",
+            "type": "Double Web",
+            "tier": 1
+        },
+        "788": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798927392/AC825BAD00ED8644711F21E8463BFAF762EF8A5A/",
+            "type": "Left Hand",
+            "tier": 2
+        },
+        "789": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798927399/EF7D01187134C6B6D7502EBDCAC569548C325344/",
+            "type": "Triple Web",
+            "tier": 1
+        },
+        "800": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798928456/5EB5042DE7D0D2A657CB92BC34C7D980965EBA84/",
+            "type": "Double Web",
+            "tier": 2
+        },
+        "820": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798928461/D1E28F664847C9F8B9CE0DB15BB166A0DD7CF7C1/",
+            "type": "Right Hand",
+            "tier": 1
+        },
+        "826": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798928471/2CF8204977998101C020CE8A82A2069F32A05569/",
+            "type": "Right Hand",
+            "tier": 2
+        },
+        "829": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798928476/32B4C0C1CA6DAF9FD395E19DDCA8F55EB661D6F0/",
+            "type": "Left Hand",
+            "tier": 1
+        },
+        "837": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798928487/28D2A7D658C2841CE9A95D89CEE4342B985BFAE7/",
+            "type": "Left Hand",
+            "tier": 3
+        },
+        "860": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798928497/5E0E1F3286D9FB428501F07B8F1F90989C250A9A/",
+            "type": "Left Hand",
+            "tier": 2
+        },
+        "866": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798928524/88CD0EDCB9E9D69FB9CCA66F05319FF031001737/",
+            "type": "Double Web",
+            "tier": 2
+        },
+        "869": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798929258/5B6FF8B3D5B6E7C324E674E94144AAFC5E50A666/",
+            "type": "Triple Web",
+            "tier": 1
+        },
+        "882": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2057623990377713067/94BD4F08E5D949C9EB251A8A1E33E39080740497/",
+            "type": "Left Hand",
+            "tier": 1
+        },
+        "904": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798929270/BDE4D17923EA588B1E5D2AF257E9C42BAAE24A82/",
+            "type": "Right Hand",
+            "tier": 3
+        },
+        "906": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798929277/FAF016E97AA6BB69A4D01664BF4A572558390D2F/",
+            "type": "Left Hand",
+            "tier": 3
+        },
+        "907": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798929287/361AEC589F10B67498C699DA95E4B578F5859E4D/",
+            "type": "Right Hand",
+            "tier": 2
+        },
+        "912": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798929303/820460DE744D07A084362247B8486839DAADFCB4/",
+            "type": "Left Hand",
+            "tier": 3
+        },
+        "913": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798929314/2CCE1BFE7F0DEC5FDB93C99CEABEC75CC2849E00/",
+            "type": "Left Hand",
+            "tier": 3
+        },
+        "914": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798929324/5D1694126EFC5632B214B3BC7C4F9A963C8F59F4/",
+            "type": "Triple Web",
+            "tier": 1
+        },
+        "916": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798930129/624DF454AFC614F58D8B1DD4F4A3E9AC79F7E5EA/",
+            "type": "Triple Web",
+            "tier": 2
+        },
+        "920": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798930138/8B2A4FAFC1EE1DDABA6CF6B2DC23A3063FB52D8A/",
+            "type": "Right Hand",
+            "tier": 3
+        },
+        "922": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798930146/0A4310E1086D02F62B2B66AEC64A27391C440D25/",
+            "type": "Double Web",
+            "tier": 2
+        },
+        "927": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798930155/3908234631E1780E1AB980A9453FD41CAEC64783/",
+            "type": "Left Hand",
+            "tier": 3
+        },
+        "933": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798930165/9796F637600FBE14C195E6846000B934BC71FA9B/",
+            "type": "Left Hand",
+            "tier": 3
+        },
+        "940": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798930180/5285B79D4E94C3CE917E28499018132B6CA58E64/",
+            "type": "Left Hand",
+            "tier": 1
+        },
+        "945": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798930190/E64E4ACDEC7B885E0C60A094122370DC27F5BB41/",
+            "type": "Right Hand",
+            "tier": 3
+        },
+        "958": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798931133/F82D5AE6DB4733D8CBA022FC2A57DD9D9897A4EC/",
+            "type": "Right Hand",
+            "tier": 1
+        },
+        "959": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798931142/96C5A9BEEC1270340C7F311A8E89237F69A5BA65/",
+            "type": "Right Hand",
+            "tier": 2
+        },
+        "965": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798931150/A5A59EEEF1D936E7820023F9336FC4576BA459B5/",
+            "type": "Double Web",
+            "tier": 2
+        },
+        "972": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798931164/5C074A72DB1D561395C1BF241D0F829644B81795/",
+            "type": "Left Hand",
+            "tier": 3
+        },
+        "979": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798931170/C4412F31D4B88FFBA5CCBE2265CA93639054BD43/",
+            "type": "Left Hand",
+            "tier": 2
+        },
+        "980": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798931180/692A53AA493714ACB62E97768AC62324A34BB6B8/",
+            "type": "Triple Web",
+            "tier": 2
+        },
+        "988": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798931190/EF91330CE4CD83C0C8364A40065311D6795157F1/",
+            "type": "Right Hand",
+            "tier": 3
+        },
+        "996": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798931554/BC2BFB5A5A08CF32DAD6F179DC8F074E6C7FEBA5/",
+            "type": "Left Hand",
+            "tier": 1
+        }
+    },
+    "karambit": {
+        "3": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "5": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "10": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2011466371045971645/0C191D5D2B27D668A728964CB33A772261B8A300/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "16": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "17": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "19": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "20": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "21": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319396753/6CE35D7AB3FF9547854143F1388FFF5A39DA62B4/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "22": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "30": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "32": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "33": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "40": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "41": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "43": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "44": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "46": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "48": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "52": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "54": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "55": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "57": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "59": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319396760/3B7DE502903724D3ED9FAD37EE529BC8165968EF/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "60": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319303294/C4A8EFF49C54BDF700EEB42C73D1554205035D05/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "61": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "69": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "70": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "72": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "76": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319367950/BB97D7CBEECCDE331822EC9EAA0CEE1ED271898F/",
+            "type": "Double Web",
+            "tier": 1
+        },
+        "81": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "85": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "86": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319396766/4C93D7E377026AEEACEBFC16D41C2C62054AD6F0/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "87": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "88": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "92": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319396772/D14DD7A81053C5C4056E94732EA134BA3A150A44/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "93": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "97": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "99": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "103": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319367957/5FE4E1F4ADF72D80A88C4507CA0AB631ABA067A4/",
+            "type": "Double Web",
+            "tier": 1
+        },
+        "107": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "110": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "111": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "112": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319396777/599F57345A97C3C9F99DA90644BB83AD11212243/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "113": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "116": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "117": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "120": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "123": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "125": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "127": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "128": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "129": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "131": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "132": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "133": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "134": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "147": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "148": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319396778/03FA6D8F928309118D496B8723A08536757ECA80/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "149": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "150": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "153": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "156": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "157": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "162": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319396781/0C0A8EF1E321659EB4D51A6BCAA8C4DE8565CF30/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "164": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "165": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "166": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "168": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "171": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319367964/56157CC09771BE8A16C2B293E3073E1B43AFD65B/",
+            "type": "Double Web",
+            "tier": 1
+        },
+        "172": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319396787/B16A97F1C3A15AD8387D595374DCF96CD50D02EC/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "176": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "178": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "179": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "180": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "182": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "187": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "189": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319396792/EDB63CA082D4022D7944FE56875716DE2F8F4353/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "191": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "193": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "195": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "197": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "198": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "202": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "205": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "206": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "208": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "212": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "215": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "217": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "219": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "231": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "232": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "233": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "234": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "235": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319396799/B31C4E0BD9C2C3739177D31FAFE795DBED7D9BD7/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "239": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "242": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "245": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "246": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "251": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319396805/09443C5AC0FEBEF107489C218AD3C26DD0A3CC4F/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "252": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "255": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "257": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319396811/D20B14AF1664BCDD330E2A95DBF7695A6150621F/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "260": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "263": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "265": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "266": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "267": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "268": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "271": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "273": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "275": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "281": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "284": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "288": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "293": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "296": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "297": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "299": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "306": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "308": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "309": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319396816/651D9EA36A21D62B8133DF7086BD8A16DF9F3BC8/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "310": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319396819/2C130FD60FA85C644B3A5FB2D9C29F9329E261CF/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "316": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "323": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "324": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319396824/A7E565F87E98B8634AE6C464229557B447B08DD8/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "326": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "331": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "332": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "333": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "334": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319396829/BEDF46E1622BAD74DEFA60070045D2AF3D611A67/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "335": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319396835/DBDE05057CE618A15D78FBCE168FED7AEFBA7604/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "338": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "340": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319396844/AEB178EC95F6BB0A16DD28DBD6C43F920072C560/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "342": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "343": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "346": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "348": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "350": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "352": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "356": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "357": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "361": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "362": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "369": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "370": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "371": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "376": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "377": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319396849/96DCEFD421A8330CF5212F456CBC669A7E94F816/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "379": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "381": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "382": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319396854/0ACA4682FFF4254FA16CC3023B7312A3E0CD54E9/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "388": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "390": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319396859/F862A7FC88A114120672A4FF007C34D6882B1F59/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "391": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319396865/A73F87B3AC0AACAD4F63B455224E90AE04FA0603/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "393": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "397": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "398": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "402": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "403": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "408": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "411": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319396872/2F4AC80A10F489877E147C1C73DE6974073B0E05/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "412": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "414": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "415": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "417": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319396877/6E05BDA3E082F7B3C70A53F7A4B32D83CF95E3F2/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "418": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "419": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "421": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "423": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "425": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "426": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "427": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "428": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "429": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "431": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "432": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "437": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "438": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "441": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319367969/5B739DB589352FE2BB790F9EC7CD8D92BC5AA160/",
+            "type": "Double Web",
+            "tier": 1
+        },
+        "446": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "448": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "449": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "450": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "453": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319396882/070B04C10895A3D64A644B6C26ED57C773881A9F/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "456": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "460": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319396889/5280F974A0FBF788B5C7FBFE86B3D3287389793B/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "461": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319396895/373DCD7C9B264DABF774A76FC3B8861D7774F5CB/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "462": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "464": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "466": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "467": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "469": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "470": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "473": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "478": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "479": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "483": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "484": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "485": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "488": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "490": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "493": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "497": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "498": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "501": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "503": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "504": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "506": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "511": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "512": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "513": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "515": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319396900/3B4B7B4D3CB1803D1A99191D5F9AB880EE29BFCB/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "517": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "518": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "520": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "522": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "523": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "524": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "525": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "526": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319396908/EB1F7ACAE3CCC7C438F2A53C4BD57054119ACEF4/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "527": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "528": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "529": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "530": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "532": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319396913/5F94C403D12725EB4D4221EAE209ECFF4126B9CC/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "533": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "534": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "537": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "539": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "542": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "544": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "546": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "547": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "550": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "551": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "552": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "553": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "556": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "557": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "560": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "561": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "567": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "569": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "571": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319396918/11AB427606BAF7963C7787F039C6FB81E0795552/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "574": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "576": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "579": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "580": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "582": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "584": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "588": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "590": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "591": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319396924/7FBDAEA6E9CFEDF475E0AAF181557D779409222E/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "592": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "595": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "601": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "608": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319367973/82577984BC4223A679F478AE53039626C2D555DA/",
+            "type": "Double Web",
+            "tier": 1
+        },
+        "609": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "610": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "611": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "614": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "615": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "616": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "619": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "620": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "627": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "629": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319396931/CCD3CCA697E1F744DA124990AF5D8A38131D3235/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "634": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "636": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "638": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "640": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319367980/EC21D70F16F8328FC44AE0C8D7A23E0D5943B31D/",
+            "type": "Double Web",
+            "tier": 1
+        },
+        "642": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "654": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "662": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "663": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "665": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "668": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "670": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "673": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "674": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "675": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "676": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319367990/3FF8B4554134CC16844A77941D91775D67D6F122/",
+            "type": "Double Web",
+            "tier": 1
+        },
+        "687": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "689": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319396934/25A2CA79C204E8C52359B1820F3EF8771817FC48/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "691": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "692": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319396939/3803B4CAC1EB4660914E2A891DCFABBEC008C6F4/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "697": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "699": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "710": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "716": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "718": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "719": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "721": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "722": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319367998/210669D5E08C16A44CE468BC24C24564E537CDBB/",
+            "type": "Double Web",
+            "tier": 1
+        },
+        "723": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "724": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "725": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319368012/C5EB43E4B9C0E38698D7C954BA5EECDE4D2DB2C7/",
+            "type": "Double Web",
+            "tier": 1
+        },
+        "726": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319368018/D988F4D6FDC283388523943DD991C992B2C5A6A9/",
+            "type": "Double Web",
+            "tier": 1
+        },
+        "732": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "737": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "739": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "740": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "741": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "746": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "754": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "755": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "756": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "757": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "758": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "770": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "771": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "772": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "773": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "777": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "779": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319396944/9969AE6E15EF387BF4355893AEB457E7CC08CCAC/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "785": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "786": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319396954/39E5ECA1BF0F5D5F36C32581AD502D424E27FECB/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "788": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "789": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "796": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319396959/D61F788A798D96BCFCA20460D06F405C6F2F2FC9/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "799": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "800": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "803": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319396967/55D16B9EF31053AB6A529A4B8E4A7C0CDC1625CF/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "806": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "808": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "811": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "813": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319396974/71E65EE9FB9692DE15317E28678B61CAC6D6932E/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "815": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "816": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "817": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "818": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "821": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "828": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "832": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "835": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "837": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "842": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319396980/8BBE2BC90326DAC12FE242A92110663287D827B3/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "843": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "846": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319396988/36C1DCFDC9A6DABE29DA2CA73B8475B78407CA8D/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "850": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "852": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "855": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "856": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "857": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "859": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "861": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "864": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "867": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "869": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "876": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "877": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "884": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "885": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "886": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "889": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "892": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "896": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "897": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "900": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "901": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "902": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "903": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "904": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319396993/20C898A4B721FBA736DC20D34715F2A04E7E34DB/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "906": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "909": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "911": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319397001/B02E374ED4CA6D5C98737B42491E7574D1710A95/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "914": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "918": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "922": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "924": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "930": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636318552898/A5A747BCDB7DB87BFB39E66C1C4CACC54B77B06E/",
+            "type": "Double Web",
+            "tier": 1
+        },
+        "932": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "934": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "935": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "936": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "939": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "940": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "942": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "947": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "948": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "949": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "955": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "958": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319397006/02F6AD3661A6570601DA92540D13A2797E826CED/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "959": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "960": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319368026/DC46603FEC036B0CA3E3754006091F97EC096349/",
+            "type": "Double Web",
+            "tier": 1
+        },
+        "962": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "964": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319397016/8A326350B863426E09019CB84CD587852226B60F/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "965": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "967": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "971": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "977": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319397022/84774544CE601D82BD6142DF440470E347EE8F09/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "983": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2012591636319397027/1175333E8AFBE61CBBBCBCDB291103B4100BB2AB/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "985": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "987": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "988": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "990": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "994": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "997": {
+            "type": "Single Web",
+            "tier": 2
+        }
+    },
+    "m9": {
+        "2": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "3": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "4": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "5": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "6": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "7": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "8": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004992397/1EB3F89C47C81A9A2228B595578B3BA705718E72/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "11": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "12": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "13": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004673848/9C40E27DABEFE0EA2F80FB6EDB883BE89B6285AF/",
+            "type": "Triple Web",
+            "tier": 1
+        },
+        "14": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "16": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004859556/2A6B2AACBC391E318142D0B0384072447A6E9149/",
+            "type": "Double Web",
+            "tier": 1
+        },
+        "17": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "18": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "22": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "26": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "27": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "29": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "31": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "32": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "34": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "36": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "37": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "38": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004744992/15C6B0022A34055DF1D43E06A168498C7F383C27/",
+            "type": "Triple Web",
+            "tier": 2
+        },
+        "39": {
+            "type": "Triple Web",
+            "tier": 3
+        },
+        "40": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "42": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "46": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "47": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "48": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "49": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "50": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "51": {
+            "type": "Triple Web",
+            "tier": 3
+        },
+        "52": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "53": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004992403/6929F826635864D0BE0BECBE716D7F1C4E1C35A4/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "54": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "57": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "58": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "60": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "62": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "64": {
+            "type": "Triple Web",
+            "tier": 3
+        },
+        "65": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "66": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "67": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "68": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "69": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "70": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "71": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "72": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004673813/4392EF2A95A94E61553F8EB45FEB390ACE5123B7/",
+            "type": "Triple Web",
+            "tier": 1
+        },
+        "73": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "74": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "76": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "77": {
+            "type": "Triple Web",
+            "tier": 3
+        },
+        "78": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "79": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "81": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "82": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "83": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "84": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "85": {
+            "type": "Triple Web",
+            "tier": 3
+        },
+        "88": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "89": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "90": {
+            "type": "Triple Web",
+            "tier": 3
+        },
+        "92": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "94": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "95": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "96": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "102": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "103": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "104": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "105": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "106": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "108": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "109": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "111": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "112": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "113": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "114": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "115": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "118": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "119": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "120": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "121": {
+            "type": "Triple Web",
+            "tier": 3
+        },
+        "122": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "123": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "124": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "125": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "126": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "127": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "129": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "131": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "132": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "133": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004673821/704E5983E655AFCC5B1A3E3EA436C4E2E8A8D955/",
+            "type": "Triple Web",
+            "tier": 1
+        },
+        "135": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "136": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "138": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004992408/03D0D8A29A4D6A4D7C40F782D15CEAC6C7E653C8/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "139": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "141": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "142": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "143": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "145": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004673843/CE6EEA9A5AB44B946C81F67A0E7C25B0F734B393/",
+            "type": "Triple Web",
+            "tier": 1
+        },
+        "146": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004859559/11812A1CE45FEA0A6D990146CF93C72D6D1E5BA1/",
+            "type": "Double Web",
+            "tier": 1
+        },
+        "147": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "150": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004992415/9E2FD8414D7BF5E343F3ACC2BE5DF6169F761862/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "151": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "153": {
+            "type": "Triple Web",
+            "tier": 3
+        },
+        "154": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "155": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "156": {
+            "type": "Triple Web",
+            "tier": 3
+        },
+        "157": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "158": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "159": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "160": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "161": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "162": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "163": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "164": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "165": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "166": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "167": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004992423/715B3F6C2E4E0FA7B8AFF2041363A7386510A04C/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "168": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "169": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "170": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "171": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "173": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004859569/E20AB5B545B14270F14A242E318E57B10B664AB1/",
+            "type": "Double Web",
+            "tier": 1
+        },
+        "174": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "175": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "178": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "180": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004859577/66AE5DB720860014366C9E58C81F76033B31B652/",
+            "type": "Double Web",
+            "tier": 1
+        },
+        "181": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004744998/72E703D4F41825BE4659891B4368F2EB26241623/",
+            "type": "Triple Web",
+            "tier": 2
+        },
+        "184": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "186": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "187": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "188": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004992428/4DF59ED473246EA2AB394C5A035726C8CBCDDEA4/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "189": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "191": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "192": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "193": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "196": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "197": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "198": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "199": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "200": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "201": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "202": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "204": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "205": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "208": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "212": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "215": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "216": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "218": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "219": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "220": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "221": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "222": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "224": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004992433/6D894C01A6FAD007F9CCEA88132950B78182328F/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "225": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "226": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "227": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "228": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "229": {
+            "type": "Triple Web",
+            "tier": 3
+        },
+        "231": {
+            "type": "Triple Web",
+            "tier": 3
+        },
+        "232": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "233": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "234": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "235": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "236": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "237": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "239": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "240": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "241": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004859583/EE0E7BE9FEF2B24CF395858F43270E4A11CCD01E/",
+            "type": "Double Web",
+            "tier": 1
+        },
+        "242": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "243": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "244": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "245": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "246": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "247": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "250": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "251": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "252": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "254": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "256": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004992438/BB927F6B9BBE0D2AE4802C36EF621C76146BEC8F/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "257": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "258": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "260": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004745005/D86BA3A3DF9AD9CC990F08434353CC7D6B3DEE9D/",
+            "type": "Triple Web",
+            "tier": 2
+        },
+        "263": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "264": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "265": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "268": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004859591/F8E6C5B062C21A747978C06821D0D5B2949C6216/",
+            "type": "Double Web",
+            "tier": 1
+        },
+        "269": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "270": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "271": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "272": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "273": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "274": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "278": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "280": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "281": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004992443/B0983C2E4587FE6C70D3DF2BD20BF6B455F913FC/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "284": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "285": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "286": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "287": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "289": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "292": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "293": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "294": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "295": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "297": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004673825/A80933E60740FE70152F0DBD42F5C0740CC082A8/",
+            "type": "Triple Web",
+            "tier": 1
+        },
+        "298": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "300": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "301": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "302": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "303": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "304": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "305": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "307": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "309": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "310": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "313": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "315": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "316": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "317": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "318": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "319": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "320": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "321": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "322": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "323": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "324": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "325": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004992447/7B2595E386851E07B57F1B38A509C1871B44E578/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "328": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "329": {
+            "type": "Triple Web",
+            "tier": 3
+        },
+        "330": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "331": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "332": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "333": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "334": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "336": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "339": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "340": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "343": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "344": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004859600/F9D09B7038A5E87DD1DB01469898DE4FC6C260BB/",
+            "type": "Double Web",
+            "tier": 1
+        },
+        "346": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "348": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "349": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004745010/56BDDBAD7DCFFFB0486F3863D0D978C816F05F8D/",
+            "type": "Triple Web",
+            "tier": 2
+        },
+        "350": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "352": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "353": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "354": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "355": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "356": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "357": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "358": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "361": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "362": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "363": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "366": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "367": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "368": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "369": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "370": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "371": {
+            "type": "Triple Web",
+            "tier": 3
+        },
+        "373": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "374": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "375": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "376": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "378": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004992451/80339AC4611CF2817E2FA62C13AEE789BEDB3AF0/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "380": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "381": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004859608/615299D11095F419B745760370C841832F612CDD/",
+            "type": "Double Web",
+            "tier": 1
+        },
+        "382": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "383": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "384": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "385": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "386": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "387": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "388": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "389": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "390": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "393": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004859615/314E299C3682E69881972C235815ECAC2473C6AF/",
+            "type": "Double Web",
+            "tier": 1
+        },
+        "394": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "395": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "396": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004992454/464A493240EAC56C1BBA9060EBC0DAC4C0FBBA1D/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "397": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "398": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "399": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "400": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "401": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "405": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004992459/468C2681878A6AD1BA60367385B840BE97FE905F/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "406": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "407": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "411": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "412": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "413": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "414": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "415": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "418": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "419": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "420": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004859621/DE6B37A9D1786F94C0E9F0FD49E7032798CBDD27/",
+            "type": "Double Web",
+            "tier": 1
+        },
+        "421": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "423": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "425": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "426": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "427": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "428": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "429": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "430": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "431": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "432": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "433": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "434": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "435": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "436": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "437": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "438": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "440": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "441": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004673837/0296ED9FC8317D8ACF76BACC515E4C9DED662287/",
+            "type": "Triple Web",
+            "tier": 1
+        },
+        "443": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "444": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "445": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "446": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "447": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "449": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "450": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "452": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "453": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004992463/AA8815815D9B67D0B0BFFE44B4BBF46CFE26F17A/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "454": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "456": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "457": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "458": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "459": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004673851/6D5BB9C7CC6F5231015039DB5CE2F545605DEF4A/",
+            "type": "Triple Web",
+            "tier": 1
+        },
+        "461": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "463": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "468": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "469": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004673834/27D50F861911AE71B60895F35164ACE5A3A73C6D/",
+            "type": "Triple Web",
+            "tier": 1
+        },
+        "471": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "472": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "474": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "475": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "476": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "477": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "478": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "480": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "481": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "482": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "483": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "486": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "487": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "488": {
+            "type": "Triple Web",
+            "tier": 3
+        },
+        "489": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004992468/8B2D73E3A842EA680C66D6F26F8E6DF44EAFB23D/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "490": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004745014/D0C91060272847B4B197C5DA21DD92D5548BF886/",
+            "type": "Triple Web",
+            "tier": 2
+        },
+        "491": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "492": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "493": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "494": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "495": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "496": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "497": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "498": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "501": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "502": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "504": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "505": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "507": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "509": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "512": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "513": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "515": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "516": {
+            "type": "Triple Web",
+            "tier": 3
+        },
+        "517": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "518": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004992474/C085BD2185D252E0D41887289FFB20720DF72CED/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "519": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "523": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "524": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "525": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004745018/3903FB786E53DC8DC7567827D34282EAD74CACE0/",
+            "type": "Triple Web",
+            "tier": 2
+        },
+        "526": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "527": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "528": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004992477/596779108B119084DE287AA9C375182C83336E57/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "529": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "530": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "531": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004992487/E6ABEFD42445863A0DDF07B96E9B4714ADA76B3A/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "533": {
+            "type": "Triple Web",
+            "tier": 3
+        },
+        "535": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "536": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "537": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "538": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "539": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "540": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "542": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "543": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "544": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "545": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "546": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "549": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "551": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "552": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "553": {
+            "type": "Triple Web",
+            "tier": 3
+        },
+        "555": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "556": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "557": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "558": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "559": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "560": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "561": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "562": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "563": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "565": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "568": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "569": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "570": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "571": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "573": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "574": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "575": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004859633/2CFBBAE90B5B357727E047CE4128F32E14A8F8C0/",
+            "type": "Double Web",
+            "tier": 1
+        },
+        "576": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "577": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "578": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "579": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "580": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "582": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "583": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "584": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "586": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "589": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "590": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004745023/E2159200DDB375C73DC1C335DFCDA2FDC1CE37E7/",
+            "type": "Triple Web",
+            "tier": 2
+        },
+        "592": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "593": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "594": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "596": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "597": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "598": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "601": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "602": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345767104364393/C604FBE769B4251836777A30C2684A80D2528C5F/",
+            "type": "Double Web",
+            "tier": 1
+        },
+        "603": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "604": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004992497/105675972062F6E2F75D9EA46AD79B52EABAF04F/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "605": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "606": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "607": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "608": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "609": {
+            "type": "Triple Web",
+            "tier": 3
+        },
+        "611": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004859638/C6A172D1C451746A5DBDB6910340C14D31EFEDF0/",
+            "type": "Double Web",
+            "tier": 1
+        },
+        "612": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "614": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004992525/4B52B21A5F7B0E0F8F365BF10826DED1A94C1C83/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "616": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "618": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "620": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "621": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "622": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "624": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "626": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "628": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "630": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "631": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "635": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "636": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "637": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "638": {
+            "type": "Triple Web",
+            "tier": 3
+        },
+        "639": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "640": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "642": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004992529/412C168EF299CF629CF2CEAB2D105CD8628A865B/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "643": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "644": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "645": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "646": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "648": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "650": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "651": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "652": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "653": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "655": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "656": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "658": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004992535/6B079C0027C53076F0BD957B101FFBC381FC1C6A/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "660": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "663": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "665": {
+            "type": "Triple Web",
+            "tier": 3
+        },
+        "667": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004992540/79A20183588E1E06506AE4E36F0B1AAD34474681/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "668": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "669": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "671": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "673": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "675": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "678": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "679": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "680": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "683": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "685": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "687": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004992547/867D35D72F4FD0D59CFA2E90722E675AE613D680/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "688": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "689": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "690": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "691": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "695": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "696": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "697": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004859649/B257FD9D2BC51D47E808953C14C7591FDCFB076B/",
+            "type": "Double Web",
+            "tier": 1
+        },
+        "698": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "699": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "701": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004992552/95B0690298D8820A2DFC77C21B5D9CEADCC3085D/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "702": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "704": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004859652/4E7FC150100F30318D148304F43BF125B8FE3C43/",
+            "type": "Double Web",
+            "tier": 1
+        },
+        "705": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "706": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "707": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "708": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "709": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004992572/C4AA22CBD103395C8A8391845D8E63407D6DA98F/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "712": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "714": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "716": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004992577/696D2C9A7F5C7B5E6BABE0306D78A6B0FA30A113/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "717": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004992588/6D15FF0DC9B17736B91D7989F405531F8B7923C0/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "718": {
+            "img": "",
+            "type": "Triple Web",
+            "tier": 1
+        },
+        "719": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "723": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004992595/9187C3CC2873AEE19F30F6BE0738C39F1E5214AA/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "724": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "725": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004745028/54E6D9F24C57E7A2C28E31B880FA529DB40B22A8/",
+            "type": "Triple Web",
+            "tier": 2
+        },
+        "726": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "727": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "729": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "730": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "731": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "732": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "733": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "736": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "738": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "739": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "740": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "745": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004992601/99490133BA2A24950D9896F31B7CCC699DA9CEAA/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "746": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "747": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "749": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "751": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "752": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "754": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "755": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004992605/5073145EAEB01E649E6071C491B19B05AA8B2C48/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "756": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004673830/A9646344EAB3C1D534CB49EFF1E7AC9A1DF32656/",
+            "type": "Triple Web",
+            "tier": 1
+        },
+        "757": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "758": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "759": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004745034/BFBC23AEDAEFAEBAF02C98886A6128B1FEB8F011/",
+            "type": "Triple Web",
+            "tier": 2
+        },
+        "760": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "761": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "762": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "764": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "766": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "768": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "770": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "771": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "772": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "773": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858001631792/A452C8439844BEBFAB85C86D9D9B6E1D4C18F3FD/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "774": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "775": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "776": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "778": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004859657/76A57080FAC54591E762E61C0D9E116A6D2A6D65/",
+            "type": "Double Web",
+            "tier": 1
+        },
+        "781": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "784": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "785": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004745044/47CD7F49F772F7E4E3674AE8F4E865B89A60C53C/",
+            "type": "Triple Web",
+            "tier": 2
+        },
+        "786": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "787": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "788": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "789": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "794": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "795": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "796": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "797": {
+            "type": "Triple Web",
+            "tier": 3
+        },
+        "798": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "799": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "800": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004992662/0CA591D0F0FC823D5DFD6D2FCA0051024639299D/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "801": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "802": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "803": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "806": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "807": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "808": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004992668/23C9BE1E5E3001644E073810029D26B5DBD96C69/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "810": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "812": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "813": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "817": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "820": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "822": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "825": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "826": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004992673/247EBCF2CE9E6D1B7F8FF0976452C83C6DCD9A7F/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "828": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "829": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "832": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004992679/49A2FAFD96F2346200BCA1B6E5252B5D3B63C93A/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "833": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "834": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "836": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "838": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "839": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "840": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "841": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "842": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "843": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "844": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "845": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "846": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "847": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "848": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "849": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "850": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "852": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "853": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004859660/C3E6BA037F731525315B9BA45FE6A27113B0E6B8/",
+            "type": "Double Web",
+            "tier": 1
+        },
+        "854": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "855": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "857": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004673866/FF1BB97B863BD5294E045579292BCE593A8E0F18/",
+            "type": "Triple Web",
+            "tier": 1
+        },
+        "858": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004859665/5B0F196CA18342D4A6E445F1BE2AAEC58DB5A35B/",
+            "type": "Double Web",
+            "tier": 1
+        },
+        "860": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "861": {
+            "type": "Triple Web",
+            "tier": 3
+        },
+        "862": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "864": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "865": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "866": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "867": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "868": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "869": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "870": {
+            "type": "Triple Web",
+            "tier": 3
+        },
+        "871": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "872": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004992683/4D933030C4F5C3B629532D578CD6388D3DC931F3/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "873": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "874": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "875": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "876": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "879": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004992686/F1D802D9971A3789F02305EC3D09BF5A3B43A337/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "880": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "884": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "885": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "886": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "887": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "890": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "893": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "894": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "895": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "897": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "898": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "899": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "900": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "901": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "903": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "904": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "907": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "909": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "910": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "911": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "912": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "914": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "915": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "918": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "919": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "920": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "922": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "923": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "924": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "925": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "929": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "930": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "931": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004992692/026A0F3D0E9D068BFBA704AD0AB2D2232A9EF09E/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "932": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "933": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "935": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "936": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "937": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004859671/B723874FA4C83D8ABDEB522EC628342ED75952BA/",
+            "type": "Double Web",
+            "tier": 1
+        },
+        "938": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004992697/21623B4C55792A819378747302A62CD1759DFB17/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "942": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "943": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "944": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "945": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "947": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "948": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "949": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "950": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "951": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "952": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004992702/43AF6CB24DA65FDD8AD6488A70ACBCFE4D600B95/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "953": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004992707/C73900B80A6850104E541E293770DD423D764660/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "955": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004992714/EDC46BF08681DCA9965D9E97CA1AAD05AC7812A0/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "956": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "957": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "958": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004992718/E729D34FBAE1A209BA67257B825C44A2B680F1FA/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "960": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "961": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "962": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004745049/F787E45EAABD9D8238EFE502A8CF141322E409A2/",
+            "type": "Triple Web",
+            "tier": 2
+        },
+        "965": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "966": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "968": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "972": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004859683/F54C0DDDC4252F2E988A203900A59C370B4030C4/",
+            "type": "Double Web",
+            "tier": 1
+        },
+        "974": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "975": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "978": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "979": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "981": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "982": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "984": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "985": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "986": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "987": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "989": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "991": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "992": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "993": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "994": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004859693/1DCCF496157A53BDB3754D0872ED8C3600E306FB/",
+            "type": "Double Web",
+            "tier": 1
+        },
+        "995": {
+            "type": "Double Web",
+            "tier": 2
+        },
+        "996": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "998": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "999": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "NaN": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019345858004859549/D633B029AA1368D9665EC19566311E500C3A79C0/",
+            "type": "Double Web",
+            "tier": 1
+        }
+    },
+    "nomad": {
+        "2": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "4": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "7": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "9": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "12": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "14": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "16": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150234/6ABB71D80A25EF9DD1E40E96049A630A4BD156BB/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "17": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "18": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "19": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "21": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "22": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "27": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150240/9AA92AA458D41E63D4A2C0483906599EE878E898/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "28": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "29": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150250/44E7D946A16F2F8F02773E765C36F63B070AD053/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "30": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150257/F9A08A5D322833802D6D6C3A21503F00B73EF8E1/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "33": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "35": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "41": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "43": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "44": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150268/3511BB6D71D444A7DF6E680B4F6ABA6B16848B89/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "47": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "48": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "50": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "53": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "54": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "57": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "58": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "59": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150274/3EC8BDB92CF63EAFFC9D80D0699B031DA87B4537/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "65": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "66": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "68": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "70": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "71": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "75": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "83": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "84": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "88": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "91": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928086159/D3586504265160C99F546DFD8B5D2A135A76FFA8/",
+            "type": "Double Web",
+            "tier": 2
+        },
+        "94": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "95": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "96": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "97": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "98": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150280/F6612A4723A190803165E40334FB605F04DFA997/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "101": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "107": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "110": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "112": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "115": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "116": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "118": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150290/1AE53AA97419B4A6A585DF1ABD1A6FA9C6B85E65/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "120": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "122": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "123": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "125": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "128": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150294/0107B93B7D2E2D947C753A9CBCC641F363EBCD6E/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "129": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "130": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "131": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "132": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "134": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150301/CA941C9B29FD2390A5AA93C6F8E60DC121C0C607/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "136": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "137": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "139": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "140": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "142": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "143": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150311/8B28F2F44D213F2093BF3B6FF972141A912CBDE3/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "146": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "147": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "148": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "150": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "154": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "155": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "157": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "159": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150318/C108EA1713634F813B7E98BAF54B7561EAA18555/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "161": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150324/C8ADC07CD8877B9E0D4E5168D1452F9D1F1B4EE7/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "167": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "172": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "176": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "177": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "178": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062927851811/D75864B82F57AC1D352C83F6A868D6F70BCA3392/",
+            "type": "Double Web",
+            "tier": 1
+        },
+        "179": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "180": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "186": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "189": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "192": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "194": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "196": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "197": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "198": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "200": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150328/0B25E3CE6A312842F2210F424AF333E79ACC3C03/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "201": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928009913/376CC9F07747476AAEC881C7ABE78DE73F8CB71F/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "205": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "207": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "208": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "209": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928058205/AFC8DA411C84E9710103F43694441AE96FB002F5/",
+            "type": "Double Web",
+            "tier": 1
+        },
+        "211": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150336/7C518D570A6AFBB8B02BA510B738BABCB05BD5F3/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "214": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150341/BC123193CEBC4D2C9FE2D7C62C73B6164CA51FD9/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "221": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "227": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150345/D4ECD1EDD43FE0627BFA46A1D32AD11CAB8E6236/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "233": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "235": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928086164/B34760302B57BB6EE51258DCF578CE27F6FF154C/",
+            "type": "Double Web",
+            "tier": 2
+        },
+        "237": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150354/9A64C314A6BC8FC641BDC78A70C8D80E798F3470/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "238": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "241": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "245": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928086169/765EAFB3164E44197DF29AD4447FE39144D67FFB/",
+            "type": "Double Web",
+            "tier": 2
+        },
+        "252": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "253": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "255": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "257": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928086174/3B3A357C5B706EE4D1974F243FCA20210115F0A2/",
+            "type": "Double Web",
+            "tier": 2
+        },
+        "265": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "269": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "271": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "272": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "273": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150363/43FCA1AB067C9B91D8F2C92E46C6F59717C055F3/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "274": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150369/C3F52F70712934D207304075CA33BF30723D2423/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "275": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "276": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150376/6B664313E06A927C9A5325F0AA38AC8548AD5596/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "281": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "282": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150379/3E22491A7C050B919AE291A9E69BB287F453C846/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "283": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "286": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928058201/0F85B8D1F55ECC7D4FB3DD7A5654133596FDDC58/",
+            "type": "Double Web",
+            "tier": 1
+        },
+        "290": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "291": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "293": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "294": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "298": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "299": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "300": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "302": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "305": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "309": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "310": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "312": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "314": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "315": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "322": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "324": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "327": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "330": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "333": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "337": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150385/DABCA6655197A7F6E8754CA8C1028EB8C879C087/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "338": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "340": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "342": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150390/B2A511D19CDCDEFD00E2D103FB4F1B996CBDBA84/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "343": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "351": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "353": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150396/978960F610ADA46E3C35A579098AD9359192DF9E/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "358": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "359": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "360": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928086183/F4075AC039727EB1B7158DE3A8909772BFF9D3E6/",
+            "type": "Double Web",
+            "tier": 2
+        },
+        "362": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "369": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "372": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "375": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "377": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150404/2BCA20E9BA16306CD947E54DB4A7743D7AF203D7/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "378": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "379": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150411/7DFBEB02854C0A94E09D347ADC26350415F9E99D/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "382": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "384": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "389": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150418/92749E21C45E1FA470F03C21C898EEBC86982268/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "391": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "392": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "393": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "394": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "395": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "398": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "400": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "401": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "403": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "404": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150423/33B29089A0BE4A541765741B7198BB83B73399C3/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "406": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150426/66602C3EEE619333501A9E6B673D214D06F56A93/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "408": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "409": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "410": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "413": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150432/659CF75593EADF2ED45E154CB88B104022F152FB/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "415": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "416": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "428": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "431": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150443/982642D1FCCE60C203C1084EC3B067E11EFF1A05/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "440": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150448/D98A3C2748B132AEBD9278932036BB600E2A4BE6/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "443": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150451/F51E53DFEC7C6D25123D8D0467A1FBD2C089BAE0/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "445": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "449": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "450": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "451": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150457/36BFD9201AB17A5AE69A0EDF6D08C971CCBD3088/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "452": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "454": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150471/30ABAFBDFEC900F79E8C8598C478708E3B648F7A/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "456": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "461": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928086189/E86420DB5F329E7E4DE563FCA890FCD7548FCC51/",
+            "type": "Double Web",
+            "tier": 2
+        },
+        "467": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "468": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "471": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150480/F518CBDDFB06D1787CA14D7C0EA30E98A567FAD0/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "472": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "473": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "474": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "476": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "480": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "482": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "484": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "485": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "491": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150491/0B4C220A38EF4B5F98E4338F69B7E35EB4EAA3FF/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "492": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "494": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150498/CD8BC0914FF4FF3B6EA4309D70457A075D598E3F/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "499": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150502/ECAC07F5AE233ED800ACCA4BFF88B98666224BF4/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "503": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150510/837DF239391DFEDFC6FE288E30E228746B5A696B/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "506": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "507": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "508": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "510": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "513": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "527": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "535": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "537": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "538": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150517/C5903EEE6ED8133ACDB0FDFED76AC2470509536F/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "541": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "550": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "554": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "556": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "557": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "558": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "561": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "565": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928086197/5DEE1F98713A1601EF0429DC2E2A27B703C39ECC/",
+            "type": "Double Web",
+            "tier": 2
+        },
+        "566": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "571": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "572": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "576": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "579": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150525/3AD3CA7E16748E02437B37449478FB8EB321D936/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "580": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "581": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "584": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "586": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150536/6B089A8B94431A04F9792F6E4C34B06A2A03F5FB/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "597": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "599": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "600": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "602": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "603": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "604": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150543/08E6FC9E05BC2414EA6F691D8B18B543D89940C7/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "610": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "611": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150548/04EC2B3057401254A7DE72B5ADD52B51CD359725/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "613": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928058211/CD8DAEDD894DAC9023901F0037F8B4F3AB43C05B/",
+            "type": "Double Web",
+            "tier": 1
+        },
+        "614": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "615": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "617": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "619": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150554/985F74C9CBEED4DC71070D14B6F8B7B468E5B8BB/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "625": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "629": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150563/F4B797F42D5F13620668FF0B1939F85878AF6BD5/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "630": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "633": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "635": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "639": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "641": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "642": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150569/D8009A576A2A39297FD1803E5A96ED79AAB09DD6/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "643": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "645": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "647": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "648": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150575/26D0D094FC4E58838B3811148DB01322BE4A4CE1/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "654": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "655": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150581/B6061667963038889852079AD181EE343ED452CB/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "658": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "659": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "661": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "662": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "664": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "672": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "673": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "674": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "682": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "685": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "687": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "688": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "689": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "691": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150585/0AD6D354924F61A8AB5E224E5BF5169F8DF734DC/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "692": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "694": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "700": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "704": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "706": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "709": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "710": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "711": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "712": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "714": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "716": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "717": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150590/76356063DCB8AA2638C83B2E6F046DCB3996F4E9/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "730": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "731": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "732": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "735": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "736": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "737": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "740": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "741": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150593/5031CDD5CA7C6A2DF7863AB37E1D3AFDC14A2A26/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "746": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "747": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150603/A042539D3713BABAD08080C45F94FDFEEF1E62DE/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "750": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "753": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "755": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150617/D737B48D342191417F1FE1752282EC2D8C02C9B9/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "762": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "768": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "770": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "771": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "773": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "776": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150625/4FDD415ADF0F50CE15B7E1A1BBACFF6946316DE6/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "777": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "781": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "786": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "787": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "788": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "791": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "793": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "794": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "801": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "803": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "804": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "806": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "807": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "808": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "809": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "814": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "815": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "816": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150628/70968486318BD6B07AF9D6F0809B3B42E3C5A330/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "818": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "824": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "825": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150635/31D6656ED5298B8C23A4485171EDDA4059E902C7/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "828": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150642/8088A261D1D1D16785470FF19B4DC1DAD03241C4/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "831": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928058223/B84A2DD6DD7B502C7088083EECB5652A4E2FD565/",
+            "type": "Double Web",
+            "tier": 1
+        },
+        "832": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150648/1EAC5AAB7B5DBCED0E483B0B3825890E2AC3E138/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "834": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "835": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "838": {
+            "type": "Double Web",
+            "tier": 3
+        },
+        "842": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "845": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "847": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "852": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928086202/9A345DD15CC4ED7D048E7C887791EE08EF10A783/",
+            "type": "Double Web",
+            "tier": 2
+        },
+        "853": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "855": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "856": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "859": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "864": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "871": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "874": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "877": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "878": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "883": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "884": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "885": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "886": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "888": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "889": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "891": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "892": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "894": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "895": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "896": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "897": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "901": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "903": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "904": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "906": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "907": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "913": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "914": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "917": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "918": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150653/28F530840B54C1363C36FD4D10AFA26EF85CF17B/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "922": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150657/14F8B41344F442A4C33318AC49C3C54AAFA3B607/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "923": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "924": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "928": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "929": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "934": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "936": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "937": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150664/C1AB53689EE2006255B3093846C55E085DC13D66/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "940": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "942": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "943": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "945": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "946": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "948": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "952": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "954": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150673/1B1C9B27F5A89E243D30054D403B2B328AEA086A/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "955": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "956": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "961": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "963": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150679/A92FBB38D300A8EC3C9175BD003E24CF001C7C61/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "964": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "969": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928086210/B60909AF9175F9B54CB898DA3436636313B86196/",
+            "type": "Double Web",
+            "tier": 2
+        },
+        "976": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "980": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "981": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150689/B647E8009A21B99C5053E7638F8A4E3B433AAA0F/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "982": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "983": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "986": {
+            "type": "Single Web",
+            "tier": 3
+        },
+        "987": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "990": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "992": {
+            "type": "Single Web",
+            "tier": 2
+        },
+        "993": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150696/C13A6CDC1CB22EA719342D14C6A2441DB4D26773/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "994": {
+            "img": "https://steamuserimages-a.akamaihd.net/ugc/2019346062928150701/555EB51BB1AF043CE0DD5E0432D83B4A9569FC3B/",
+            "type": "Single Web",
+            "tier": 1
+        },
+        "996": {
+            "type": "Single Web",
+            "tier": 2
+        }
+    }
+}
