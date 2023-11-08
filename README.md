@@ -11,6 +11,7 @@ The full guides and tierlists can be found here:
 -   [CW Gloves](https://steamcommunity.com/sharedfiles/filedetails/?id=2818147579), [EW Gloves](https://steamcommunity.com/sharedfiles/filedetails/?id=2817501759) by [CptnKraken](https://steamcommunity.com/id/CPTNKRAKEN)
 -   [CW M9](https://steamcommunity.com/sharedfiles/filedetails/?id=2973876979), [CW Karambit](https://steamcommunity.com/sharedfiles/filedetails/?id=2980565820), [CW Nomad](https://steamcommunity.com/sharedfiles/filedetails/?id=2976420129) by [Remix](https://steamcommunity.com/id/ogremix)
 -   [Galil Phoenix Blacklight](https://steamcommunity.com/sharedfiles/filedetails/?id=2352059734) by [SeanErren](https://steamcommunity.com/id/SeanErren)
+-   [Karambit Cyanbit](https://steamcommunity.com/sharedfiles/filedetails/?id=2598147723) by [CptnKraken](https://steamcommunity.com/id/CPTNKRAKEN)
 
 ## Tierlist format
 
