@@ -1,14 +1,16 @@
 {
 	"name": "cs-tierlist",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"author": "GODrums",
 	"description": "Tierlists for many pattern-based CS skins",
 	"license": "MIT",
+	"main": "dist/index.js",
+	"module": "dist/index.js",
+	"types": "dist/index.d.ts",
 	"scripts": {
 		"test": "jest",
 		"build": "tsc -p tsconfig.build.json",
-		"clean": "rimraf dist",
-		"gen_knives": "deno run --allow-net --allow-read --allow-write --allow-env --allow-run src/fetch_cw_knives.ts"
+		"clean": "rimraf dist"
 	},
 	"repository": {
 		"type": "git",
@@ -26,7 +28,6 @@
 	],
 	"homepage": "https://github.com/GODrums/cs-tierlist#readme",
 	"devDependencies": {
-		"@jest/globals": "^29.7.0",
 		"@types/jest": "^29.5.8",
 		"eslint": "^8.53.0",
 		"jest": "^29.7.0",

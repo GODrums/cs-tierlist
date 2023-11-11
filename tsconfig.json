@@ -14,7 +14,9 @@
 		"isolatedModules": true,
 		"baseUrl": ".",
 		"noFallthroughCasesInSwitch": true,
-		"outDir": "./dist"
+		"outDir": "./dist",
+		"declaration": true,
+		"sourceMap": true
 	},
 	"compileOnSave": true,
 	"include": ["src/*.ts"]

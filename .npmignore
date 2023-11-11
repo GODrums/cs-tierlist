@@ -1,0 +1,7 @@
+__tests__/*
+node_modules/*
+scripts/*
+src/*
+jest.config.js
+tsconfig.json
+tsconfig.build.json
