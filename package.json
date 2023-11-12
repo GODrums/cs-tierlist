@@ -37,6 +37,9 @@
 	],
 	"baseUrl": ".",
 	"homepage": "https://github.com/GODrums/cs-tierlist#readme",
+	"engines": {
+		"node": ">=18"
+	},
 	"devDependencies": {
 		"@types/jest": "^29.5.8",
 		"eslint": "^8.53.0",
