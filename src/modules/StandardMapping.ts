@@ -1,5 +1,3 @@
-import { readFile } from "fs/promises";
-
 interface PatternMapping<T extends AbstractPattern> {
 	[paint_seed: string]: T;
 }
@@ -17,11 +15,11 @@ abstract class StandardMapping<T extends AbstractPattern> {
 	protected abstract weapon: string;
 	
 	/**
-	 * Load the mapping from the generated JSON file. This method is called automatically when using the getAllPatterns() or getPattern() methods.
+	 * Load the mapping from the generated JSON file. To avoid huge package sizes, the file is loaded from the GitHub repository.
+	 * This method is called automatically when using the getAllPatterns() or getPattern() methods.
 	 */
 	private async initMapping() {
-		const file = await readFile(`./generated/${this.patternName}_${this.weapon}.json`, "utf8");
-		this.patterns = await JSON.parse(file);
+		this.patterns = await fetch(`https://raw.githubusercontent.com/GODrums/cs-tierlist/main/generated/${this.patternName}_${this.weapon}.json`).then((res) => res.json());
 	}
 
 	/**
