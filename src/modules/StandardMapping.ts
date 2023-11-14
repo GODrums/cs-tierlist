@@ -8,6 +8,7 @@ interface AbstractPattern {
 }
 
 abstract class StandardMapping<T extends AbstractPattern> {
+	// mapping is loaded only on demand to avoid initial loading times
 	private patterns: PatternMapping<T> = {};
 
 	protected abstract patternName: string;
@@ -19,6 +20,24 @@ abstract class StandardMapping<T extends AbstractPattern> {
 	 * This method is called automatically when using the getAllPatterns() or getPattern() methods.
 	 */
 	private async initMapping() {
+		if (typeof window !== 'undefined') {
+			// import from chrome storage if available
+			const storage_key = `cs-tierlists_${this.patternName}_${this.weapon}`;
+			const storage: PatternMapping<T> | null = await new Promise((resolve) => chrome?.storage.local.get(storage_key, (value) => {
+				resolve(value[storage_key] ?? null);
+			}));
+
+			if (storage) {
+				this.patterns = storage;
+				return;
+			} else {
+				// load from GitHub and save to chrome storage
+				const patterns = await fetch(`https://raw.githubusercontent.com/GODrums/cs-tierlist/main/generated/${this.patternName}_${this.weapon}.json`).then((res) => res.json());
+				this.patterns = patterns;
+				chrome?.storage.local.set({ [storage_key]: patterns });
+			}
+		}
+
 		this.patterns = await fetch(`https://raw.githubusercontent.com/GODrums/cs-tierlist/main/generated/${this.patternName}_${this.weapon}.json`).then((res) => res.json());
 	}
 
