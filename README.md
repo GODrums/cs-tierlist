@@ -23,9 +23,10 @@ The full guides and tierlists can be found here:
 -   [Crimson Kimono Gloves](https://steamcommunity.com/sharedfiles/filedetails/?id=2881155935) by [CW](https://steamcommunity.com/id/CWCrimson)
 -   [Galil Phoenix Blacklight](https://steamcommunity.com/sharedfiles/filedetails/?id=2352059734) by [SeanErren](https://steamcommunity.com/id/SeanErren)
 -   [Karambit Cyanbit](https://steamcommunity.com/sharedfiles/filedetails/?id=2598147723) by [CptnKraken](https://steamcommunity.com/id/CPTNKRAKEN)
+-   [Overprint Gloves](https://steamcommunity.com/sharedfiles/filedetails/?id=2772035880) by [CptnKraken](https://steamcommunity.com/id/CPTNKRAKEN)
 
 After careful consideration, I decided to accept the following proposed changes to the original tierlists:
-- CW Gloves: 
+- CW Gloves 
     - pattern 369 has been moved from tier 2 right hand to tier 3 double web thanks to a suggestion by @zada273 in [Issue #1](https://github.com/GODrums/cs-tierlist/issues/1)
     - pattern 936 has been added as a tier 2 double web thanks to a suggestion by @zada273 in [Issue #1](https://github.com/GODrums/cs-tierlist/issues/1)
 
@@ -33,7 +34,7 @@ After careful consideration, I decided to accept the following proposed changes 
 
 ### JavaScript/TypeScript (NPM)
 
-Install the latest version as [NPM](https://www.npmjs.com/package/cs-tierlist) package:
+Install the latest version for Node.js 18 as [NPM](https://www.npmjs.com/package/cs-tierlist) package:
 ```js
 npm install cs-tierlist
 ```
@@ -88,3 +89,39 @@ If you want to contribute to this repository, feel free to open a pull request.
 Please make sure to follow the existing structure and use the same format for the tierlists.
 
 For new tierlists, it is required to submit at least one test-file under `__tests__\modules` for each tierlist and to include the test results in the pull request.
+
+## ⌨️ Development
+
+
+Prerequisites:
+
+-   Node.js `>=18.0.0`
+-   npm `>=9.5.0`
+-   tsc `>=4.7.0`
+
+Note that this project will not run on older versions of Node.js due to the usage of ES2022 features, such as the `fetch`-functionality.
+
+Prepare your local setup via the following command:
+
+```bash
+npm install
+```
+
+After finishing your changes, make sure to format with Prettier:
+
+```bash
+npm run prettier
+```
+
+Clean the build folder and then build the project:
+
+```bash
+npm run clean
+npm run build
+```
+
+And finally make sure the tests suites are passing:
+
+```bash
+npm run test
+```
