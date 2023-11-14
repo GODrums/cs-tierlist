@@ -35,6 +35,7 @@ abstract class StandardMapping<T extends AbstractPattern> {
 				const patterns = await fetch(`https://raw.githubusercontent.com/GODrums/cs-tierlist/main/generated/${this.patternName}_${this.weapon}.json`).then((res) => res.json());
 				this.patterns = patterns;
 				chrome?.storage.local.set({ [storage_key]: patterns });
+				return;
 			}
 		}
 

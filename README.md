@@ -4,7 +4,8 @@
 ![NPM Bundle Size](https://img.shields.io/bundlephobia/min/cs-tierlist?label=size)
 ![NPM Downloads](https://img.shields.io/npm/dm/cs-tierlist)
 ![GitHub License](https://img.shields.io/github/license/chescos/csgo-fade-percentage-calculator)
-![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/godrums/cs-tierlist/node-test.yml)
+![GitHub Build Workflow Status](https://img.shields.io/github/actions/workflow/status/godrums/cs-tierlist/node-test.yml)
+![GitHub Test Workflow Status](https://img.shields.io/github/actions/workflow/status/godrums/cs-tierlist/node-test.yml?label=tests)
 
 
 Tierlists for many pattern-based CS skins. The list of supported skins and weapons is listed below.
