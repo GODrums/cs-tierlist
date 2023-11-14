@@ -1,7 +1,7 @@
-import { CrimsonKarambitModule, CrimsonM9Module, CrimsonNomadModule, CrimsonGlovesModule } from "./modules/CrimsonWebMapping";
-import PhoenixModule from "./modules/PhoenixMapping";
-import CyanbitKarambitModule from "./modules/CyanbitMapping";
-import CrimsonKimonoModule from "./modules/CrimsonKimonoMapping";
+import { CrimsonKarambitModule, CrimsonM9Module, CrimsonNomadModule, CrimsonGlovesModule } from './modules/CrimsonWebMapping';
+import PhoenixModule from './modules/PhoenixMapping';
+import CyanbitKarambitModule from './modules/CyanbitMapping';
+import CrimsonKimonoModule from './modules/CrimsonKimonoMapping';
 
 export const CrimsonM9Mapping = new CrimsonM9Module();
 export const CrimsonKarambitMapping = new CrimsonKarambitModule();
