@@ -18,10 +18,16 @@ This repository is only a public data collection.
 I did not create the tierlists myself, credit goes to their original creators.
 The full guides and tierlists can be found here:
 
--   [CW Gloves](https://steamcommunity.com/sharedfiles/filedetails/?id=2818147579), [EW Gloves](https://steamcommunity.com/sharedfiles/filedetails/?id=2817501759) by [CptnKraken](https://steamcommunity.com/id/CPTNKRAKEN)
--   [CW M9](https://steamcommunity.com/sharedfiles/filedetails/?id=2973876979), [CW Karambit](https://steamcommunity.com/sharedfiles/filedetails/?id=2980565820), [CW Nomad](https://steamcommunity.com/sharedfiles/filedetails/?id=2976420129) by [Remix](https://steamcommunity.com/id/ogremix)
+-   [Crimson Web Gloves](https://steamcommunity.com/sharedfiles/filedetails/?id=2818147579), [Emerald Web Gloves](https://steamcommunity.com/sharedfiles/filedetails/?id=2817501759) by [CptnKraken](https://steamcommunity.com/id/CPTNKRAKEN)
+-   [Crimson Web M9](https://steamcommunity.com/sharedfiles/filedetails/?id=2973876979), [Crimson Web Karambit](https://steamcommunity.com/sharedfiles/filedetails/?id=2980565820), [Crimson Web Nomad](https://steamcommunity.com/sharedfiles/filedetails/?id=2976420129) by [Remix](https://steamcommunity.com/id/ogremix)
+-   [Crimson Kimono Gloves](https://steamcommunity.com/sharedfiles/filedetails/?id=2881155935) by [CW](https://steamcommunity.com/id/CWCrimson)
 -   [Galil Phoenix Blacklight](https://steamcommunity.com/sharedfiles/filedetails/?id=2352059734) by [SeanErren](https://steamcommunity.com/id/SeanErren)
 -   [Karambit Cyanbit](https://steamcommunity.com/sharedfiles/filedetails/?id=2598147723) by [CptnKraken](https://steamcommunity.com/id/CPTNKRAKEN)
+
+After careful consideration, I decided to accept the following proposed changes to the original tierlists:
+- CW Gloves: 
+    - pattern 369 has been moved from tier 2 right hand to tier 3 double web thanks to a suggestion by @zada273 in [Issue #1](https://github.com/GODrums/cs-tierlist/issues/1)
+    - pattern 936 has been added as a tier 2 double web thanks to a suggestion by @zada273 in [Issue #1](https://github.com/GODrums/cs-tierlist/issues/1)
 
 ## ⚙️ Usage
 

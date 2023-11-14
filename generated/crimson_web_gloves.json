@@ -221,8 +221,8 @@
     },
     "369": {
         "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798919626/F3EE24CDCF370B516D24D64A21CAAD197097D89B/",
-        "type": "Right Hand",
-        "tier": 2
+        "type": "Double Web",
+        "tier": 3
     },
     "398": {
         "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798919634/214A8B8C7D98CCD7DED6BAE6285B8A1EDD973AE0/",
@@ -368,6 +368,11 @@
         "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798922775/41A22FDFF4C046533161B8F348A32CDF4A5E2E96/",
         "type": "Left Hand",
         "tier": 3
+    },
+    "936": {
+        "img": "https://s.skinport.com/0Bdl2W8.jpg",
+        "type": "Double Web",
+        "tier": 2
     },
     "656": {
         "img": "https://steamuserimages-a.akamaihd.net/ugc/1879703711798923460/BE654ED50DE03ADB4DB83F5A7637A6F1E2F0DEAC/",

@@ -70,4 +70,4 @@ abstract class StandardMapping<T extends AbstractPattern> {
 }
 
 export { StandardMapping };
-export type { AbstractPattern };
+export type { AbstractPattern, PatternMapping };
