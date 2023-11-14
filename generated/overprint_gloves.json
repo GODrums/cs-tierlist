@@ -1,0 +1,507 @@
+{
+    "25": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476978947/8C9113D76900CC1D48589D772D60C9A502B3DAFC/",
+        "type": "Mixed",
+        "tier": 0
+    },
+    "33": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476780112/47814148E88B84FBF475B93F5EE9F530F6EFB801/",
+        "type": "Polygon",
+        "tier": 2
+    },
+    "37": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476971151/78837AD508E102F493EA4C9A5794ED5ABEE37AE6/",
+        "type": "Arrow",
+        "tier": 3
+    },
+    "42": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476978954/52EAEBF2FCA7EFC8F9DD5D338B6B0D4A359263BA/",
+        "type": "Mixed",
+        "tier": 0
+    },
+    "52": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476955724/36D6C7076A95B688DB07D2F3B919061C404E9981/",
+        "type": "Arrow",
+        "tier": 1
+    },
+    "53": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476978957/A63F4BD828DB949CE4A6A401A2D8C23317FC2523/",
+        "type": "Mixed",
+        "tier": 0
+    },
+    "60": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476987443/0349CD9DDE9751861D8A9879B4263351408E41D7/",
+        "type": "Flower",
+        "tier": 0
+    },
+    "63": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476978973/529CF585DAD2558A717CCC8F357EA7D818685F86/",
+        "type": "Mixed",
+        "tier": 0
+    },
+    "64": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476757281/02F0C2D24F7B98871A186CE81548BBBD7453EBA7/",
+        "type": "Polygon",
+        "tier": 1
+    },
+    "71": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476971158/31BE1E1C75B62E04184EECE20B67299D56A92990/",
+        "type": "Arrow",
+        "tier": 3
+    },
+    "81": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476971166/631EF605596A40558B47D1EB2017C0A558320930/",
+        "type": "Arrow",
+        "tier": 3
+    },
+    "92": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476967183/0110020C8980FE40CB959886FB442E32BA1557EC/",
+        "type": "Arrow",
+        "tier": 2
+    },
+    "117": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476987448/CEEA8CE51075A010C7EF4A84EDABACA4A93072B8/",
+        "type": "Flower",
+        "tier": 0
+    },
+    "118": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476987456/B81DB48EF553A16774697C046672863F85ACF357/",
+        "type": "Flower",
+        "tier": 0
+    },
+    "122": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476955733/D7B170195C300DCCA081A4DF91905230B578703A/",
+        "type": "Arrow",
+        "tier": 1
+    },
+    "127": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476987463/EB5AE303076946EE3A11216F3D464F24EA2293A5/",
+        "type": "Flower",
+        "tier": 0
+    },
+    "133": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476780119/2888B76738B2B0216C385CEE4B214BF2CA8A8D84/",
+        "type": "Polygon",
+        "tier": 2
+    },
+    "148": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476952406/D8F078FFF9E125099BDE6B6FC439400811931719/",
+        "type": "Polygon",
+        "tier": 3
+    },
+    "161": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476967192/0FF926144C953ACA8CC83DE8244DB847ADB2731C/",
+        "type": "Arrow",
+        "tier": 2
+    },
+    "162": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476955741/18D7F1F44F9E6A7A3A11B2A247169B7345B2A02D/",
+        "type": "Arrow",
+        "tier": 1
+    },
+    "163": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476978981/17956DD3228E7E470E6649F65FB02A9751B2E2A4/",
+        "type": "Mixed",
+        "tier": 0
+    },
+    "182": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476971175/D97B84CB958EC74619ACC269FEF1A8C32F447414/",
+        "type": "Arrow",
+        "tier": 3
+    },
+    "183": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476967197/696947A7E11C01983932E51CB88E9EF0312C3450/",
+        "type": "Arrow",
+        "tier": 2
+    },
+    "187": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476780127/B11BF1C1FB514934753F600F8EF1D93C530E7AD6/",
+        "type": "Polygon",
+        "tier": 2
+    },
+    "192": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476978990/F10B97B1D4EBCCEA6E066800F0143B9285B30528/",
+        "type": "Mixed",
+        "tier": 0
+    },
+    "196": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476987472/2C01AE8AAF55AA58486A72FAD5E94727ED373FCE/",
+        "type": "Flower",
+        "tier": 0
+    },
+    "197": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476987478/480947FFEEC090AEF48828ED537AD859AB50BFF1/",
+        "type": "Flower",
+        "tier": 0
+    },
+    "224": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476952413/734B2885BC49144EEDA54D1AEF2290ADD2A00ADA/",
+        "type": "Polygon",
+        "tier": 3
+    },
+    "237": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476971182/F8C84ADFCC09C236B097630A73691496E967A5AB/",
+        "type": "Arrow",
+        "tier": 3
+    },
+    "251": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476780137/C538D9C5A41189A7D7E9C4BAC1A51D12B171D72E/",
+        "type": "Polygon",
+        "tier": 2
+    },
+    "288": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476971190/1F7D67EC86A92AF2AF7E7CDBBFD3BA1C442A747E/",
+        "type": "Arrow",
+        "tier": 3
+    },
+    "289": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476971199/A703B6D19A5A6E16C1338CC81F329758D4737A67/",
+        "type": "Arrow",
+        "tier": 3
+    },
+    "292": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476987487/14D1F1B287B5B1DE15864712655999A22EB3F972/",
+        "type": "Flower",
+        "tier": 0
+    },
+    "295": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476987494/7E86FF3C18307A48B5E8311B2AA59A8CE8221D16/",
+        "type": "Flower",
+        "tier": 0
+    },
+    "303": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476979000/6D078282F00DF79A13F6F66A065ECC3A327989D5/",
+        "type": "Mixed",
+        "tier": 0
+    },
+    "307": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476955748/DA8A7433A16558A768466207E75553F2C57F628E/",
+        "type": "Arrow",
+        "tier": 1
+    },
+    "308": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476955756/BB21A1B4F56D4076517D4442EBE0E51116309300/",
+        "type": "Arrow",
+        "tier": 1
+    },
+    "309": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476979009/CAB6BDFD3063E383EF1ED3CCE44A27F7BD4D361F/",
+        "type": "Mixed",
+        "tier": 0
+    },
+    "313": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476987501/FCA37A772377A5FB80619F1BF3B1CD2899F96729/",
+        "type": "Flower",
+        "tier": 0
+    },
+    "341": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476757288/C59F1D52584C1A21306BD3CC513E8595DBBF2739/",
+        "type": "Polygon",
+        "tier": 1
+    },
+    "348": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476952416/B7B503121DA2A44E4BC6F1AD80F830C983CE64CA/",
+        "type": "Polygon",
+        "tier": 3
+    },
+    "361": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476988335/8DFF491580BAF0EE7F13918EF4859E70086EEC3A/",
+        "type": "Flower",
+        "tier": 0
+    },
+    "362": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476988345/3A5C6282AA83BD8A64C04652674B1C8C47665954/",
+        "type": "Flower",
+        "tier": 0
+    },
+    "367": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476780153/BED56E23BE89A8C64C83DC1F8B5705321F5889DF/",
+        "type": "Polygon",
+        "tier": 2
+    },
+    "381": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476979017/E6557DAC2573E2E2583348CF0A69286C63FCC34B/",
+        "type": "Mixed",
+        "tier": 0
+    },
+    "402": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476971205/EE895328507A2D580379E0EE0EA87A28401055D7/",
+        "type": "Arrow",
+        "tier": 3
+    },
+    "417": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/2057623990358758328/060C1996498E0260A0E5EA97EA9092D6D44254F1/",
+        "type": "Flower",
+        "tier": 0
+    },
+    "427": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476757294/8A56BB0BEDC6D425967478591095B960C6B880DB/",
+        "type": "Polygon",
+        "tier": 1
+    },
+    "428": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476979914/D0C58AE2F32A17153533CC104AA7CC1CF87296FF/",
+        "type": "Mixed",
+        "tier": 0
+    },
+    "429": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476979919/A45EEAF4111F644783EF286124E193EB11E82A1C/",
+        "type": "Mixed",
+        "tier": 0
+    },
+    "441": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476967208/2E988D2FC675657A0616CC400869244BC1A66008/",
+        "type": "Arrow",
+        "tier": 2
+    },
+    "462": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476967215/9F5F5692201DE07F071622255CDA08F1EBE38911/",
+        "type": "Arrow",
+        "tier": 2
+    },
+    "463": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476971212/8B16EECB9747C6A8FC2D5540CE40B6D16892D656/",
+        "type": "Arrow",
+        "tier": 3
+    },
+    "467": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/2057623990358769611/7F22FEE0020120F4FCEA118F3EB92E2D405C11EA/",
+        "type": "Arrow",
+        "tier": 1
+    },
+    "485": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476979929/DC11A9699B18B997863114C77DB69303405069C3/",
+        "type": "Mixed",
+        "tier": 0
+    },
+    "494": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476979934/CA85CF1F866D81E96CA9EFEC8F06FBC4B00C6BDB/",
+        "type": "Mixed",
+        "tier": 0
+    },
+    "517": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476979943/0FC33CDCE0DA68A6ADC134855410C15B6030BEC3/",
+        "type": "Mixed",
+        "tier": 0
+    },
+    "544": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476757301/2401B1F0C3AFA3618CDABB4756A74B07F375535B/",
+        "type": "Polygon",
+        "tier": 1
+    },
+    "545": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476979954/0D1C93A0DE5A9B44D97F973D3D1B4CC7EAD5441C/",
+        "type": "Mixed",
+        "tier": 0
+    },
+    "564": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476757310/33223E18EC99C7C129EA01BD65147C5C3BD0FE86/",
+        "type": "Polygon",
+        "tier": 1
+    },
+    "590": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476979959/D92294C05C6A5F60A4247F9184B6BAB8C7C4C41F/",
+        "type": "Mixed",
+        "tier": 0
+    },
+    "602": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476780163/4AF19471D0C92F4EC07FCECBA8631CE7551473A2/",
+        "type": "Polygon",
+        "tier": 2
+    },
+    "611": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476757321/A93E331F5F302DA68874D54CD53B154620DAC3CB/",
+        "type": "Polygon",
+        "tier": 1
+    },
+    "623": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476780175/F238F449A25A155991FDFB78B1470752D2F589B9/",
+        "type": "Polygon",
+        "tier": 2
+    },
+    "641": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476757329/09BBCA298D812FDA808602EBBCB67775FAE3F24D/",
+        "type": "Polygon",
+        "tier": 1
+    },
+    "658": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476955761/7EC46271F7752F1E888368FA6E76703C3C4F17C2/",
+        "type": "Arrow",
+        "tier": 1
+    },
+    "671": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476757336/6D6A1A81919EB929B566F385864F55AC06EFB185/",
+        "type": "Polygon",
+        "tier": 1
+    },
+    "675": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476952423/8D8B1B95A0B6EE9BF14B319E952C909373143F3E/",
+        "type": "Polygon",
+        "tier": 3
+    },
+    "715": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476979970/EEE8A07444C28BC00732F3C0FE9209FC48010061/",
+        "type": "Mixed",
+        "tier": 0
+    },
+    "733": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476979977/3983EE0101458BCA519F9C60791C2975716D4F2B/",
+        "type": "Mixed",
+        "tier": 0
+    },
+    "744": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/2057623990358716550/A1B45D2E23DC79E55F85F046E8FD2AF4EB8B6C45/",
+        "type": "Polygon",
+        "tier": 1
+    },
+    "774": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476988359/E2D555401F283F99CBAFD28C54DD0CD1BAADBEF6/",
+        "type": "Flower",
+        "tier": 0
+    },
+    "786": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476988368/C4E77741EBFAE91A47A03B34EE9011793FEA3666/",
+        "type": "Flower",
+        "tier": 0
+    },
+    "788": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476780184/D890170A91C0BF114358059FA6681C4EFDBB5F65/",
+        "type": "Polygon",
+        "tier": 2
+    },
+    "789": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476952429/CAF55C70B2417F3C75E2F947EF8C6E8CB260F4B3/",
+        "type": "Polygon",
+        "tier": 3
+    },
+    "805": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476980702/C7D732E3AB92F00C2E4375F1D17F27CBE1E37BC3/",
+        "type": "Mixed",
+        "tier": 0
+    },
+    "806": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476757343/9CBF86BCC9A38B7F2CF3D4CE996FE1421B73004C/",
+        "type": "Polygon",
+        "tier": 1
+    },
+    "807": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476757349/945D8E88ACA84E515799F91D893A3637BB935002/",
+        "type": "Polygon",
+        "tier": 1
+    },
+    "809": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476980709/734CCC95981384E61461FAE4604307ED5767C759/",
+        "type": "Mixed",
+        "tier": 0
+    },
+    "810": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476757360/6CD488B47382EEB30DD38627FCC25F68B1F29A20/",
+        "type": "Polygon",
+        "tier": 1
+    },
+    "815": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476780798/E7E725C65505429BA6EB4AEAEB70E675AC9800F5/",
+        "type": "Polygon",
+        "tier": 2
+    },
+    "819": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476980718/0327B622D17FD62EA755BE35F68EC421F7FC7808/",
+        "type": "Mixed",
+        "tier": 0
+    },
+    "841": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476972274/B21952B35ACEF54F842497CA5747C2F2D1A86554/",
+        "type": "Arrow",
+        "tier": 3
+    },
+    "842": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476980723/282B11D37E3ABA432B076005F4B1923AB1737E3B/",
+        "type": "Mixed",
+        "tier": 0
+    },
+    "850": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476988375/80A4A046874DAC111EFDEF7C9CE5994ED9C0F484/",
+        "type": "Flower",
+        "tier": 0
+    },
+    "857": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476988384/9DCFD56B6772BD11579676B5C88AE5092C7E447F/",
+        "type": "Flower",
+        "tier": 0
+    },
+    "869": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476952434/14C685EB640F91F1205615000DBA7CAF97DE3AB7/",
+        "type": "Polygon",
+        "tier": 3
+    },
+    "875": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476972283/676B2695DE10C432E1FCB0C0CEB50CDF5274822D/",
+        "type": "Arrow",
+        "tier": 3
+    },
+    "877": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476952449/88808E9C3710A7F36D3A154D6137143B0D979479/",
+        "type": "Polygon",
+        "tier": 3
+    },
+    "879": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476988397/45437F17CD8F86E7FE430DD74E4BEDAD193F95F5/",
+        "type": "Flower",
+        "tier": 0
+    },
+    "887": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476980731/AD7E524675ED335019D0669A6F5376A650529C97/",
+        "type": "Mixed",
+        "tier": 0
+    },
+    "891": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476955780/07017DEDDF61CC62045F16049950B4CC1919E700/",
+        "type": "Arrow",
+        "tier": 1
+    },
+    "892": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476955785/037C9126016F8BD5F1C7918C402D9B623F636CB5/",
+        "type": "Arrow",
+        "tier": 1
+    },
+    "916": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476972288/F48DCCAF53984652E8CF91CD029021E1AD295489/",
+        "type": "Arrow",
+        "tier": 3
+    },
+    "919": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476780805/2E3D6C5CB928D0A5E30EEE4EB7D4D882A5A84DD2/",
+        "type": "Polygon",
+        "tier": 2
+    },
+    "924": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476780813/02B1D92458A4EE52156691892DC05D4F84BC39EC/",
+        "type": "Polygon",
+        "tier": 2
+    },
+    "937": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476780820/552B010CF17CF88DA4816FA719C3E1EBEB5621D0/",
+        "type": "Polygon",
+        "tier": 2
+    },
+    "945": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476780825/063FC960ACFD40B5423DE87FDFD9EE888ACE0997/",
+        "type": "Polygon",
+        "tier": 2
+    },
+    "952": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476972296/29E0C347350BDBF8E1DA8D09C3518D7E1863E517/",
+        "type": "Arrow",
+        "tier": 3
+    },
+    "954": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476967221/13E7483F4859001FC0001026D66BEE656E8837B2/",
+        "type": "Arrow",
+        "tier": 2
+    },
+    "975": {
+        "img": "https://steamuserimages-a.akamaihd.net/ugc/1859428799476980744/F1589A31F79514F2DD862DCA2A598DA37C3A71C4/",
+        "type": "Mixed",
+        "tier": 0
+    }
+}
