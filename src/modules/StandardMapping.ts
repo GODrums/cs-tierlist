@@ -15,6 +15,12 @@ abstract class StandardMapping<T extends AbstractPattern> {
 
     protected abstract weapon: string;
 
+    constructor(preload: boolean = false) {
+        if (preload) {
+            this.initMapping();
+        }
+    }
+
     /**
      * Load the mapping from the generated JSON file. To avoid huge package sizes, the file is loaded from the GitHub repository.
      * This method is called automatically when using the getAllPatterns() or getPattern() methods.
