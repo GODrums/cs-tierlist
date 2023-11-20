@@ -44,6 +44,10 @@ Use the package in your own project and only import what you actually need:
 // import the desired package
 const { CrimsonM9Mapping, CyanbitKarambitMapping } = require("cs-tierlist");
 
+// you can also dynamically generate the mapping
+// this allows for enforced preloading of the tierlist
+const cw_kara_mapping = generateMapping("karambit", "crimson_web", true);
+
 // Get the pattern for a specific seed
 const pattern2 = CrimsonM9Mapping.getPattern(2);
 
