@@ -29,6 +29,7 @@ After careful consideration, I decided to accept the following proposed changes 
 - CW Gloves 
     - pattern 369 has been moved from tier 2 right hand to tier 3 double web thanks to a suggestion by @zada273 in [Issue #1](https://github.com/GODrums/cs-tierlist/issues/1)
     - pattern 936 has been added as a tier 2 double web thanks to a suggestion by @zada273 in [Issue #1](https://github.com/GODrums/cs-tierlist/issues/1)
+    - pattern 813 has been added as a tier 3 double web thanks to a suggestions by @ALPHABRAVOK9 on Twitter
 
 ## ⚙️ Usage
 
