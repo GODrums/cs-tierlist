@@ -3,7 +3,7 @@ import PhoenixModule from './modules/PhoenixMapping';
 import CyanbitKarambitModule from './modules/CyanbitMapping';
 import CrimsonKimonoModule from './modules/CrimsonKimonoMapping';
 import OverprintModule from './modules/OverprintMapping';
-import { AbstractPattern, StandardMapping } from './modules/StandardMapping';
+import type { AbstractPattern, StandardMapping } from './modules/StandardMapping';
 
 export const CrimsonM9Mapping = new CrimsonM9Module();
 export const CrimsonKarambitMapping = new CrimsonKarambitModule();
@@ -16,7 +16,9 @@ export const OverprintMapping = new OverprintModule();
 
 const generator: {
     [weapon: string]: {
-        [pattern: string]: (preload: boolean) => CrimsonM9Module | CrimsonKarambitModule | CrimsonNomadModule | CrimsonGlovesModule | PhoenixModule | CyanbitKarambitModule | CrimsonKimonoModule | OverprintModule;
+        [pattern: string]: (
+            preload: boolean
+        ) => CrimsonM9Module | CrimsonKarambitModule | CrimsonNomadModule | CrimsonGlovesModule | PhoenixModule | CyanbitKarambitModule | CrimsonKimonoModule | OverprintModule;
     };
 } = {
     m9: {
@@ -46,7 +48,7 @@ const storage: {
 } = {};
 
 // generate mapping from parameters
-export const generateMapping = (weapon: string, pattern: string, preload: boolean = false) => {
+export const generateMapping = (weapon: string, pattern: string, preload = false) => {
     if (storage[weapon]?.[pattern]) {
         return storage[weapon][pattern];
     }

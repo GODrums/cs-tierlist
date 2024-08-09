@@ -1,4 +1,4 @@
-import { AbstractPattern, StandardMapping } from './StandardMapping';
+import { type AbstractPattern, StandardMapping } from './StandardMapping';
 
 interface EmeraldGlovesPattern extends AbstractPattern {
     img?: string;

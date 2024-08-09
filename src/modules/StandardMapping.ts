@@ -15,7 +15,7 @@ abstract class StandardMapping<T extends AbstractPattern> {
 
     protected abstract weapon: string;
 
-    constructor(preload: boolean = false) {
+    constructor(preload = false) {
         if (preload) {
             this.initMapping();
         }
@@ -39,13 +39,12 @@ abstract class StandardMapping<T extends AbstractPattern> {
             if (storage) {
                 this.patterns = storage;
                 return;
-            } else {
-                // load from GitHub and save to chrome storage
-                const patterns = await fetch(`https://raw.githubusercontent.com/GODrums/cs-tierlist/main/generated/${this.patternName}_${this.weapon}.json`).then((res) => res.json());
-                this.patterns = patterns;
-                chrome?.storage.local.set({ [storage_key]: patterns });
-                return;
             }
+            // load from GitHub and save to chrome storage
+            const patterns = await fetch(`https://raw.githubusercontent.com/GODrums/cs-tierlist/main/generated/${this.patternName}_${this.weapon}.json`).then((res) => res.json());
+            this.patterns = patterns;
+            chrome?.storage.local.set({ [storage_key]: patterns });
+            return;
         }
 
         this.patterns = await fetch(`https://raw.githubusercontent.com/GODrums/cs-tierlist/main/generated/${this.patternName}_${this.weapon}.json`).then((res) => res.json());

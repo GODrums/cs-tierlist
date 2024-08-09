@@ -1,4 +1,4 @@
-import { StandardMapping, AbstractPattern } from './StandardMapping';
+import { StandardMapping, type AbstractPattern } from './StandardMapping';
 
 interface CrimsonWebPattern extends AbstractPattern {
     img?: string;

@@ -1,4 +1,4 @@
-import { StandardMapping, AbstractPattern } from './StandardMapping';
+import { StandardMapping, type AbstractPattern } from './StandardMapping';
 
 interface OverprintPattern extends AbstractPattern {
     img: string;

@@ -1,4 +1,4 @@
-import { AbstractPattern, StandardMapping } from './StandardMapping';
+import { type AbstractPattern, StandardMapping } from './StandardMapping';
 
 // The guide contains non-classified patterns, which use type: '' and tier: 0
 interface CyanbitPattern extends AbstractPattern {
